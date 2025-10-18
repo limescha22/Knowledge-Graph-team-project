@@ -1,0 +1,3399 @@
+@prefix ns1: <http://example.org/kg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/'s_Lands_Zeemagazijn> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q33085> .
+
+<http://dbpedia.org/resource/12th_IIFA_Awards> a ns1:POI ;
+    ns1:hasType ns1:Entertainment_events ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Entertainment events" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2807463> .
+
+<http://dbpedia.org/resource/290_Square_Meters> a ns1:POI ;
+    ns1:hasType ns1:Shops ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Shops" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4632856> .
+
+<http://dbpedia.org/resource/AFAS_Live> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q619832> .
+
+<http://dbpedia.org/resource/Abkhazi_Garden> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q112039603> .
+
+<http://dbpedia.org/resource/Admiraliteitslijnbaan,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4802138> .
+
+<http://dbpedia.org/resource/Agnietenkapel> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q11721709> .
+
+<http://dbpedia.org/resource/Ajax_Experience> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15961602> .
+
+<http://dbpedia.org/resource/Albert_Cuyp_Market> a ns1:POI ;
+    ns1:hasType ns1:Retail_markets ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Retail markets" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2342892> .
+
+<http://dbpedia.org/resource/Allan_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1635335> .
+
+<http://dbpedia.org/resource/Allard_Pierson_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1244372> .
+
+<http://dbpedia.org/resource/American_Hotel,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17291591> .
+
+<http://dbpedia.org/resource/American_Sports_Centers_(Anaheim,_California)> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" .
+
+<http://dbpedia.org/resource/Amstelhof> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4748815> .
+
+<http://dbpedia.org/resource/Amstelkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q478190> .
+
+<http://dbpedia.org/resource/Amstelpark> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q655469> .
+
+<http://dbpedia.org/resource/Amsterdam_(1748)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26674641> .
+
+<http://dbpedia.org/resource/Amsterdam_Amstel_station> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q50720> .
+
+<http://dbpedia.org/resource/Amsterdam_Centraal_station> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q50719> .
+
+<http://dbpedia.org/resource/Amsterdam_Centre_for_Architecture> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2098441> .
+
+<http://dbpedia.org/resource/Amsterdam_City_Archives> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2170763> .
+
+<http://dbpedia.org/resource/Amsterdam_Heritage_Museums> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25111524> .
+
+<http://dbpedia.org/resource/Amsterdam_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1820897> .
+
+<http://dbpedia.org/resource/Amsterdam_Pipe_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2218690> .
+
+<http://dbpedia.org/resource/Amsterdam_Tulip_Museum> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" .
+
+<http://dbpedia.org/resource/Amsterdamse_Bos> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q511560> .
+
+<http://dbpedia.org/resource/Anaheim_Convention_Center> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4750878> .
+
+<http://dbpedia.org/resource/Anaheim_Ice> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4750883> .
+
+<http://dbpedia.org/resource/Angel_Stadium> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q531897> .
+
+<http://dbpedia.org/resource/Anne_Frank_House> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q165366> .
+
+<http://dbpedia.org/resource/Apollohal> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2761363> .
+
+<http://dbpedia.org/resource/Arctic_Red_River> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q638127> .
+
+<http://dbpedia.org/resource/Arti_et_Amicitiae> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17289688> .
+
+<http://dbpedia.org/resource/Artis_Library> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17298534> .
+
+<http://dbpedia.org/resource/Assiniboine_Park> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3363774> .
+
+<http://dbpedia.org/resource/Astoria_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17291038> .
+
+<http://dbpedia.org/resource/Astro_Hill_Complex> a ns1:POI ;
+    ns1:hasType ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7945203> .
+
+<http://dbpedia.org/resource/Athenaeum_Illustre_of_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q505639> .
+
+<http://dbpedia.org/resource/Aviation_Hall_of_Fame_and_Museum_of_New_Jersey> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4828639> .
+
+<http://dbpedia.org/resource/Badhuistheater> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2133879> .
+
+<http://dbpedia.org/resource/Basilica_of_Saint_Nicholas,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1350750> .
+
+<http://dbpedia.org/resource/Bastion_Square> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q54888822> .
+
+<http://dbpedia.org/resource/Bayer's_Lake_Mystery_Walls> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16253875> .
+
+<http://dbpedia.org/resource/Baylor_Massacre> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4874605> .
+
+<http://dbpedia.org/resource/Begijnhof_Chapel,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17307418> .
+
+<http://dbpedia.org/resource/Beit_Ha'Chidush> a ns1:POI ;
+    ns1:hasType ns1:Religious_buildings_and_structures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Religious buildings and structures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2520396> .
+
+<http://dbpedia.org/resource/Bergen_Ballpark> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4891489> .
+
+<http://dbpedia.org/resource/Bergen_Community_College> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4891499> .
+
+<http://dbpedia.org/resource/Bergen_Museum_of_Art_&_Science> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4891525> .
+
+<http://dbpedia.org/resource/Berkeley_College> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2897191> .
+
+<http://dbpedia.org/resource/Bethaniënklooster> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2225856> .
+
+<http://dbpedia.org/resource/Beurs_van_Berlage> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q851200> .
+
+<http://dbpedia.org/resource/Big_Apple_(Colborne,_Ontario)> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4904931> .
+
+<http://dbpedia.org/resource/Big_Nickel> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4906071> .
+
+<http://dbpedia.org/resource/Big_Things> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24190142> .
+
+<http://dbpedia.org/resource/Bijbels_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2919762> .
+
+<http://dbpedia.org/resource/Bimhuis> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q825421> .
+
+<http://dbpedia.org/resource/Bird_Kingdom> a ns1:POI ;
+    ns1:hasType ns1:Aviaries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Aviaries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4915879> .
+
+<http://dbpedia.org/resource/Blackledge-Kearney_House> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4923079> .
+
+<http://dbpedia.org/resource/Blauwe_Theehuis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2357041> .
+
+<http://dbpedia.org/resource/Bloedel_Floral_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Aviaries,
+        ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Aviaries",
+        "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4927320> .
+
+<http://dbpedia.org/resource/Bloemenmarkt> a ns1:POI ;
+    ns1:hasType ns1:Retail_markets ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Retail markets" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q643079> .
+
+<http://dbpedia.org/resource/Blue_Mosque_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Religious_buildings_and_structures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Religious buildings and structures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12269634> .
+
+<http://dbpedia.org/resource/Board_of_Amsterdam_Museums> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4931301> .
+
+<http://dbpedia.org/resource/Bonnet_Plume_River> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q892784> .
+
+<http://dbpedia.org/resource/Botanic_Garden_Zuidas> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2610973> .
+
+<http://dbpedia.org/resource/Botanical_Society_of_Canada> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85748398> .
+
+<http://dbpedia.org/resource/Bowie_Seamount> a ns1:POI ;
+    ns1:hasType ns1:Underwater_diving_sites ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Underwater diving sites" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3322238> .
+
+<http://dbpedia.org/resource/Brookside_Cemetery_(Englewood,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4975102> .
+
+<http://dbpedia.org/resource/Bungehuis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17291593> .
+
+<http://dbpedia.org/resource/Butchart_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q336701> .
+
+<http://dbpedia.org/resource/ByWard_Market_Square> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" .
+
+<http://dbpedia.org/resource/Caledonia_Springs,_Ontario> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5019399> .
+
+<http://dbpedia.org/resource/Campbell-Christie_House> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5027979> .
+
+<http://dbpedia.org/resource/Campgaw_Mountain_Reservation> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5028348> .
+
+<http://dbpedia.org/resource/Canadian_Heritage_Information_Network> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3456610> .
+
+<http://dbpedia.org/resource/Canadian_Museums_Association> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5030349> .
+
+<http://dbpedia.org/resource/Cap_Tourmente_National_Wildlife_Area> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3089739> .
+
+<http://dbpedia.org/resource/Cape_Jourimain_Nature_Centre> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" .
+
+<http://dbpedia.org/resource/Carré_Theatre> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Rijksmonuments" .
+
+<http://dbpedia.org/resource/Cedar_Park_Cemetery,_New_Jersey> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5056825> .
+
+<http://dbpedia.org/resource/Centennial_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5059135> .
+
+<http://dbpedia.org/resource/Centennial_Park_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5059198> .
+
+<http://dbpedia.org/resource/Centre_Square_Mall> a ns1:POI ;
+    ns1:hasType ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5062307> .
+
+<http://dbpedia.org/resource/Chakuriki_Gym> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5068447> .
+
+<http://dbpedia.org/resource/Chateau_St._Louis> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2599707> .
+
+<http://dbpedia.org/resource/Chodae_Community_Church> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5103749> .
+
+<http://dbpedia.org/resource/Church_of_Our_Lady,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2788825> .
+
+<http://dbpedia.org/resource/Church_of_St._Peter_and_St._Paul,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2102894> .
+
+<http://dbpedia.org/resource/Church_of_the_Holy_Communion_(Norwood,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5117887> .
+
+<http://dbpedia.org/resource/Churchill_Square_(Edmonton)> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5118225> .
+
+<http://dbpedia.org/resource/Château_Ramezay> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q168737> .
+
+<http://dbpedia.org/resource/City_Hall,_Weesp> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2623069> .
+
+<http://dbpedia.org/resource/Cloverdale_Fairgrounds> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16258575> .
+
+<http://dbpedia.org/resource/Clublink> a ns1:POI ;
+    ns1:hasType ns1:Golf_clubs_and_courses ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Golf clubs and courses" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5136539> .
+
+<http://dbpedia.org/resource/Colasanti's_Tropical_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5141910> .
+
+<http://dbpedia.org/resource/Concertgebouw> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q827768> .
+
+<http://dbpedia.org/resource/Confederation_Garden_Court> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55137580> .
+
+<http://dbpedia.org/resource/Confederation_Square> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4365607> .
+
+<http://dbpedia.org/resource/Connecticut_School_of_Broadcasting> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5161604> .
+
+<http://dbpedia.org/resource/Consophia_(sculpture)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28163682> .
+
+<http://dbpedia.org/resource/Coymanshuis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17290348> .
+
+<http://dbpedia.org/resource/Cromhouthuizen> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17164881> .
+
+<http://dbpedia.org/resource/Crossroads_of_the_American_Revolution_National_Heritage_Area> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5188854> .
+
+<http://dbpedia.org/resource/Cullen_Gardens_and_Miniature_Village> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5192994> .
+
+<http://dbpedia.org/resource/Dakota_Dunes_Golf_Links> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Golf clubs and courses" .
+
+<http://dbpedia.org/resource/Dam_Square> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q839050> .
+
+<http://dbpedia.org/resource/Dappermarkt> a ns1:POI ;
+    ns1:hasType ns1:Retail_markets ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Retail markets" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1165557> .
+
+<http://dbpedia.org/resource/De_Bazel> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1977799> .
+
+<http://dbpedia.org/resource/De_Duif> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2050495> .
+
+<http://dbpedia.org/resource/De_Gooyer,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2756543> .
+
+<http://dbpedia.org/resource/De_Kleine_Komedie> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17234231> .
+
+<http://dbpedia.org/resource/De_Krijtberg> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1180056> .
+
+<http://dbpedia.org/resource/De_L'Europe_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2463682> .
+
+<http://dbpedia.org/resource/De_Meer_Stadion> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1112724> .
+
+<http://dbpedia.org/resource/De_Otter,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2746079> .
+
+<http://dbpedia.org/resource/Demarest_House_(River_Edge,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5255081> .
+
+<http://dbpedia.org/resource/Deutzen_Hofje> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2609918> .
+
+<http://dbpedia.org/resource/Devonian_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5267812> .
+
+<http://dbpedia.org/resource/Diamond_Museum_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1208561> .
+
+<http://dbpedia.org/resource/Dijkgraafplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5276492> .
+
+<http://dbpedia.org/resource/Doelen_Hotel> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2737085> .
+
+<http://dbpedia.org/resource/Dominion_Arboretum> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5291030> .
+
+<http://dbpedia.org/resource/Dr._Sun_Yat-Sen_Classical_Chinese_Garden> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q741730> .
+
+<http://dbpedia.org/resource/Dr._William_D._Young_Memorial> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5304471> .
+
+<http://dbpedia.org/resource/Dutch_Reformed_Church_at_Romopock> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5317370> .
+
+<http://dbpedia.org/resource/Dutch_Reformed_Church_in_the_English_Neighborhood> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5317371> .
+
+<http://dbpedia.org/resource/EYE_Film_Institute_Netherlands> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1538389> .
+
+<http://dbpedia.org/resource/Eastwick_College_and_the_HoHoKus_Schools> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5330990> .
+
+<http://dbpedia.org/resource/Eaton_Centre> a ns1:POI ;
+    ns1:hasType ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2944811> .
+
+<http://dbpedia.org/resource/Edgewater_Cemetery> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5337839> .
+
+<http://dbpedia.org/resource/Edwards_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3048736> .
+
+<http://dbpedia.org/resource/El_Tawheed_Mosque> a ns1:POI ;
+    ns1:hasType ns1:Religious_buildings_and_structures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Religious buildings and structures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q526708> .
+
+<http://dbpedia.org/resource/Electric_Ladyland_(museum)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q41574019> .
+
+<http://dbpedia.org/resource/Embassy_of_the_Free_Mind> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56452182> .
+
+<http://dbpedia.org/resource/Englewood_Cliffs_College> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5378119> .
+
+<http://dbpedia.org/resource/Englewood_Golf_Club> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5378123> .
+
+<http://dbpedia.org/resource/English_Reformed_Church,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2906260> .
+
+<http://dbpedia.org/resource/Ethnographic_Museum_Artis> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2267276> .
+
+<http://dbpedia.org/resource/Evangelical_Lutheran_Church_of_Saddle_River_and_Ramapough_Building> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5415700> .
+
+<http://dbpedia.org/resource/Exhibition_Place> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1383752> .
+
+<http://dbpedia.org/resource/Fairleigh_Dickinson_University> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1393301> .
+
+<http://dbpedia.org/resource/Fairview_Cemetery_(Fairview,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15217237> .
+
+<http://dbpedia.org/resource/Fanshawe_College_Arboretum> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5434096> .
+
+<http://dbpedia.org/resource/Felician_University> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705495> .
+
+<http://dbpedia.org/resource/Felix_Meritis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2920003> .
+
+<http://dbpedia.org/resource/Female_Landscape> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q37518698> .
+
+<http://dbpedia.org/resource/Finnerty_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5450711> .
+
+<http://dbpedia.org/resource/First_Baptist_Church_of_Hackensack> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60746472> .
+
+<http://dbpedia.org/resource/First_Reformed_Dutch_Church,_Hackensack> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries,
+        ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries",
+        "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5453746> .
+
+<http://dbpedia.org/resource/Flat_Rock_Brook_Nature_Center> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5457790> .
+
+<http://dbpedia.org/resource/Flevopark> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2335366> .
+
+<http://dbpedia.org/resource/Foam_Fotografiemuseum_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5422840> .
+
+<http://dbpedia.org/resource/Former_town_hall_of_Nieuwer-Amstel> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2196602> .
+
+<http://dbpedia.org/resource/Fort_Cobb_Reservoir> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5470942> .
+
+<http://dbpedia.org/resource/Fort_Cobb_State_Park> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5470940> .
+
+<http://dbpedia.org/resource/Fort_Frontenac> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q515965> .
+
+<http://dbpedia.org/resource/Fort_Lee_Historic_Park> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums",
+        "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5471502> .
+
+<http://dbpedia.org/resource/Fort_Lee_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18150283> .
+
+<http://dbpedia.org/resource/Fort_Longueuil> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2971867> .
+
+<http://dbpedia.org/resource/Fort_Ross,_Nunavut> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5471947> .
+
+<http://dbpedia.org/resource/Fort_Senneville> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3078075> .
+
+<http://dbpedia.org/resource/Franklin_Lakes_Nature_Preserve> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5491643> .
+
+<http://dbpedia.org/resource/Fredericton_Botanic_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5499240> .
+
+<http://dbpedia.org/resource/Frederik_Hendrikplantsoen> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2550411> .
+
+<http://dbpedia.org/resource/Front_Fountain> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55137578> .
+
+<http://dbpedia.org/resource/Garden_of_the_Provinces_and_Territories> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5522410> .
+
+<http://dbpedia.org/resource/Garretson_Forge_and_Farm> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5523856> .
+
+<http://dbpedia.org/resource/George_Washington_Memorial_Park_(Paramus,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5546004> .
+
+<http://dbpedia.org/resource/Georges_Island_(Nova_Scotia)> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3559232> .
+
+<http://dbpedia.org/resource/Gethsemane_Cemetery> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5554454> .
+
+<http://dbpedia.org/resource/Gibeau_Orange_Julep> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3105346> .
+
+<http://dbpedia.org/resource/Glass_House_(British_Columbia)> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16982085> .
+
+<http://dbpedia.org/resource/Glover_Stadium/Dee_Fee_Field> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65070603> .
+
+<http://dbpedia.org/resource/Golden_Boy_(Manitoba)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5579226> .
+
+<http://dbpedia.org/resource/Grand_Hotel_Krasnapolsky> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1213720> .
+
+<http://dbpedia.org/resource/Grand_Parade_(Halifax,_Nova_Scotia)> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5594872> .
+
+<http://dbpedia.org/resource/Great_Lakes_Circle_Tour> a ns1:POI ;
+    ns1:hasType ns1:Scenic_travelways ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Scenic travelways" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q839038> .
+
+<http://dbpedia.org/resource/Great_Western_Loop> a ns1:POI ;
+    ns1:hasType ns1:Hiking_trails ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Hiking trails" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5600199> .
+
+<http://dbpedia.org/resource/Guild_Park_and_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28162807> .
+
+<http://dbpedia.org/resource/Gwaii_Haanas_National_Park_Reserve_and_Haida_Heritage_Site> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q862285> .
+
+<http://dbpedia.org/resource/Hackensack_Cemetery> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5637224> .
+
+<http://dbpedia.org/resource/Haliburton_Sculpture_Forest> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4025968> .
+
+<http://dbpedia.org/resource/Halifax_Explosion_Memorial_Sculpture> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5642169> .
+
+<http://dbpedia.org/resource/Halifax_Public_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4901477> .
+
+<http://dbpedia.org/resource/Handboogdoelen,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3070103> .
+
+<http://dbpedia.org/resource/Happy_Rock> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5653007> .
+
+<http://dbpedia.org/resource/Harriet_Irving_Botanical_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29467638> .
+
+<http://dbpedia.org/resource/Hash,_Marihuana_&_Hemp_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3783595> .
+
+<http://dbpedia.org/resource/Hastings_Park> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5680423> .
+
+<http://dbpedia.org/resource/Haworth_Country_Club> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5685393> .
+
+<http://dbpedia.org/resource/Heilige_Stede> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3913391> .
+
+<http://dbpedia.org/resource/Heineken_Experience> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2087161> .
+
+<http://dbpedia.org/resource/Hermitage_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1350009> .
+
+<http://dbpedia.org/resource/Het_Houten_Stadion> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2552609> .
+
+<http://dbpedia.org/resource/Het_Nieuwe_Huis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1616099> .
+
+<http://dbpedia.org/resource/Het_Scheepvaartmuseum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1616123> .
+
+<http://dbpedia.org/resource/Het_Schip> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1616115> .
+
+<http://dbpedia.org/resource/Hillside_Cemetery_(Lyndhurst,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5763902> .
+
+<http://dbpedia.org/resource/Hiram_Blauvelt_Art_Museum> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" .
+
+<http://dbpedia.org/resource/Hollandsche_Manege> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments,
+        ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments",
+        "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2191087> .
+
+<http://dbpedia.org/resource/Hollandsche_Schouwburg> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2206529> .
+
+<http://dbpedia.org/resource/Holy_Cross_Cemetery_(North_Arlington,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5885104> .
+
+<http://dbpedia.org/resource/Homage_(sculpture)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5887388> .
+
+<http://dbpedia.org/resource/Homeless_Jesus> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16850111> .
+
+<http://dbpedia.org/resource/Honda_Center> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Anaheim,_California> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q774138> .
+
+<http://dbpedia.org/resource/Hopper-Goetschius_House> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705615> .
+
+<http://dbpedia.org/resource/Horseshoe_Canyon_(Alberta)> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5906004> .
+
+<http://dbpedia.org/resource/Hortus_Botanicus_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1576733> .
+
+<http://dbpedia.org/resource/Hotel_Die_Port_van_Cleve> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17307460> .
+
+<http://dbpedia.org/resource/Hudson_River_Waterfront_Walkway> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5928870> .
+
+<http://dbpedia.org/resource/Huis_aan_de_Drie_Grachten> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2035791> .
+
+<http://dbpedia.org/resource/Huis_de_Pinto> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2009396> .
+
+<http://dbpedia.org/resource/Huis_met_de_Hoofden> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56452182> .
+
+<http://dbpedia.org/resource/Huis_met_de_Kabouters> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2110563> .
+
+<http://dbpedia.org/resource/Husky_the_Muskie> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5949409> .
+
+<http://dbpedia.org/resource/Improve_Canada> a ns1:POI ;
+    ns1:hasType ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48790617> .
+
+<http://dbpedia.org/resource/Indian_City_USA> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6020033> .
+
+<http://dbpedia.org/resource/Innu_Meshkenu> a ns1:POI ;
+    ns1:hasType ns1:Hiking_trails ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Hiking trails" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17278171> .
+
+<http://dbpedia.org/resource/InterContinental_Amstel_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q478198> .
+
+<http://dbpedia.org/resource/Inuksuk> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1048711> .
+
+<http://dbpedia.org/resource/Jaap_Edenbaan> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2060246> .
+
+<http://dbpedia.org/resource/Jaap_Edenhal> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16987775> .
+
+<http://dbpedia.org/resource/Jack_Poole_Plaza> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q106882428> .
+
+<http://dbpedia.org/resource/Jackson_Park_(Windsor,_Ontario)> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6117309> .
+
+<http://dbpedia.org/resource/Jardins_de_Métis> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15228751> .
+
+<http://dbpedia.org/resource/Jersey_College> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17183153> .
+
+<http://dbpedia.org/resource/Joe's_Scarecrow_Village> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6208232> .
+
+<http://dbpedia.org/resource/Johan_Cruyff_Arena> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q207109> .
+
+<http://dbpedia.org/resource/Johnny_Jordaanplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1854398> .
+
+<http://dbpedia.org/resource/Jongensland> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" .
+
+<http://dbpedia.org/resource/Joods_Historisch_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q702726> .
+
+<http://dbpedia.org/resource/Jumbo_the_Elephant_(Bronnum)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18126383> .
+
+<http://dbpedia.org/resource/Kalyna_Country> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4209413> .
+
+<http://dbpedia.org/resource/KattenKabinet> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2916386> .
+
+<http://dbpedia.org/resource/Keele_Campus> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6382764> .
+
+<http://dbpedia.org/resource/Keizersgracht_143> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q794553> .
+
+<http://dbpedia.org/resource/Keizersgracht_453> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5103309> .
+
+<http://dbpedia.org/resource/King_Edward_VII_Memorial_Fountain> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6411511> .
+
+<http://dbpedia.org/resource/Kings_Pond_Park> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6413007> .
+
+<http://dbpedia.org/resource/Kingston_Market_Square> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" .
+
+<http://dbpedia.org/resource/Kingston_Memorial_Centre> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6413560> .
+
+<http://dbpedia.org/resource/Knife_Edge_Two_Piece_1962–65> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6422110> .
+
+<http://dbpedia.org/resource/Koningsplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q682020> .
+
+<http://dbpedia.org/resource/Krachtsportgebouw> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6435782> .
+
+<http://dbpedia.org/resource/Kwanlin_Dün_Cultural_Centre> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q110916973> .
+
+<http://dbpedia.org/resource/L'Anse_aux_Meadows> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q189113> .
+
+<http://dbpedia.org/resource/La_Joute> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6463260> .
+
+<http://dbpedia.org/resource/Lake_Tappan> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6477970> .
+
+<http://dbpedia.org/resource/Lambiek> a ns1:POI ;
+    ns1:hasType ns1:Shops ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Shops" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2714676> .
+
+<http://dbpedia.org/resource/Lansdowne_Park> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3363854> .
+
+<http://dbpedia.org/resource/Leidseplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1409805> .
+
+<http://dbpedia.org/resource/Les_petits_Baigneurs> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3234580> .
+
+<http://dbpedia.org/resource/Lesser_Slave_Lake_Provincial_Park> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6531526> .
+
+<http://dbpedia.org/resource/Life_(sculpture)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q38252085> .
+
+<http://dbpedia.org/resource/List_of_CAZA_member_zoos_and_aquariums> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6565337> .
+
+<http://dbpedia.org/resource/List_of_Migratory_Bird_Sanctuaries_of_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3423162> .
+
+<http://dbpedia.org/resource/List_of_Moose_in_the_City> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17010752> .
+
+<http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2514186> .
+
+<http://dbpedia.org/resource/List_of_aquaria_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6606050> .
+
+<http://dbpedia.org/resource/List_of_beaches_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Beaches,
+        ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Beaches",
+        "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17507604> .
+
+<http://dbpedia.org/resource/List_of_botanical_gardens_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6608106> .
+
+<http://dbpedia.org/resource/List_of_castles_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3247948> .
+
+<http://dbpedia.org/resource/List_of_cathedrals_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3247584> .
+
+<http://dbpedia.org/resource/List_of_caves_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6609082> .
+
+<http://dbpedia.org/resource/List_of_disc_golf_courses_in_Alberta> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83129089> .
+
+<http://dbpedia.org/resource/List_of_disc_golf_courses_in_British_Columbia> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83129091> .
+
+<http://dbpedia.org/resource/List_of_disc_golf_courses_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83129321> .
+
+<http://dbpedia.org/resource/List_of_disc_golf_courses_in_Ontario> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83129092> .
+
+<http://dbpedia.org/resource/List_of_disc_golf_courses_in_Quebec> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83129093> .
+
+<http://dbpedia.org/resource/List_of_entertainment_events_at_Canada_Life_Centre> a ns1:POI ;
+    ns1:hasType ns1:Entertainment_events ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Entertainment events" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29467231> .
+
+<http://dbpedia.org/resource/List_of_entertainment_events_at_Rogers_Arena> a ns1:POI ;
+    ns1:hasType ns1:Entertainment_events ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Entertainment events" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q27661384> .
+
+<http://dbpedia.org/resource/List_of_entertainment_events_at_Scotiabank_Arena> a ns1:POI ;
+    ns1:hasType ns1:Entertainment_events ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Entertainment events" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29025532> .
+
+<http://dbpedia.org/resource/List_of_golf_courses_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Golf_clubs_and_courses,
+        ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Golf clubs and courses",
+        "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6621741> .
+
+<http://dbpedia.org/resource/List_of_golf_courses_in_Ontario> a ns1:POI ;
+    ns1:hasType ns1:Golf_clubs_and_courses ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Golf clubs and courses" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q39090955> .
+
+<http://dbpedia.org/resource/List_of_golf_courses_in_Saskatchewan> a ns1:POI ;
+    ns1:hasType ns1:Golf_clubs_and_courses ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Golf clubs and courses" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q39090932> .
+
+<http://dbpedia.org/resource/List_of_heritage_railways_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Heritage_railways,
+        ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Heritage railways",
+        "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6622186> .
+
+<http://dbpedia.org/resource/List_of_lakes_of_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lakes ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Lakes" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1663823> .
+
+<http://dbpedia.org/resource/List_of_largest_shopping_centres_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6625009> .
+
+<http://dbpedia.org/resource/List_of_museums_in_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6333399> .
+
+<http://dbpedia.org/resource/List_of_museums_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4261200> .
+
+<http://dbpedia.org/resource/List_of_nature_centres_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists,
+        ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists",
+        "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6630289> .
+
+<http://dbpedia.org/resource/List_of_parks_in_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1995417> .
+
+<http://dbpedia.org/resource/List_of_reportedly_haunted_locations_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6636434> .
+
+<http://dbpedia.org/resource/List_of_shopping_malls_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists,
+        ns1:Shopping_malls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists",
+        "Shopping malls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6639376> .
+
+<http://dbpedia.org/resource/List_of_ski_areas_and_resorts_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6639553> .
+
+<http://dbpedia.org/resource/List_of_squares_in_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26847134> .
+
+<http://dbpedia.org/resource/List_of_trails_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Hiking_trails,
+        ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Hiking trails",
+        "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6635960> .
+
+<http://dbpedia.org/resource/List_of_waterfalls_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6645074> .
+
+<http://dbpedia.org/resource/List_of_windmills_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists,
+        ns1:Windmills ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada>,
+        <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists",
+        "Windmills" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6645290> .
+
+<http://dbpedia.org/resource/List_of_windmills_in_Quebec> a ns1:POI ;
+    ns1:hasType ns1:Windmills ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Windmills" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q322739> .
+
+<http://dbpedia.org/resource/List_of_zoos_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6645974> .
+
+<http://dbpedia.org/resource/Little_Glenn> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3377147> .
+
+<http://dbpedia.org/resource/Lloyd_Hotel> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2433228> .
+
+<http://dbpedia.org/resource/Louis_Riel_(sculpture)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q52432> .
+
+<http://dbpedia.org/resource/MacBride_Museum_of_Yukon_History> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1882389> .
+
+<http://dbpedia.org/resource/Mac_the_Moose> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6722391> .
+
+<http://dbpedia.org/resource/Madame_Tussauds_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3275333> .
+
+<http://dbpedia.org/resource/Madonna_Church_(Fort_Lee,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6728370> .
+
+<http://dbpedia.org/resource/Magna_Plaza> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1962448> .
+
+<http://dbpedia.org/resource/Magnetic_Hill_(Moncton)> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7749561> .
+
+<http://dbpedia.org/resource/Makelaers_Comptoir> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2743668> .
+
+<http://dbpedia.org/resource/Maligne_Canyon> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6743519> .
+
+<http://dbpedia.org/resource/Maple_Grove_Park_Cemetery_(Hackensack,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6753889> .
+
+<http://dbpedia.org/resource/Marie_Heinekenplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2350458> .
+
+<http://dbpedia.org/resource/Markenplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2217260> .
+
+<http://dbpedia.org/resource/Martinka_(company)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6777171> .
+
+<http://dbpedia.org/resource/Maywood_Station_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705738> .
+
+<http://dbpedia.org/resource/Meadowlands_Arena> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q538218> .
+
+<http://dbpedia.org/resource/Meadowlands_Environment_Center> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6803378> .
+
+<http://dbpedia.org/resource/Meadowlands_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705739> .
+
+<http://dbpedia.org/resource/Meadowlands_Racetrack> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q11881912> .
+
+<http://dbpedia.org/resource/Meadowlands_Sports_Complex> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q225108> .
+
+<http://dbpedia.org/resource/Mejiro_Gym> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6810488> .
+
+<http://dbpedia.org/resource/Melkweg> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60481> .
+
+<http://dbpedia.org/resource/Memorial_University_of_Newfoundland_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6815551> .
+
+<http://dbpedia.org/resource/MetLife_Stadium> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q10862290> .
+
+<http://dbpedia.org/resource/Metz_&_Co> a ns1:POI ;
+    ns1:hasType ns1:Shops ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Shops" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4994191> .
+
+<http://dbpedia.org/resource/Micropia_(museum)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18169481> .
+
+<http://dbpedia.org/resource/Miniature_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6865139> .
+
+<http://dbpedia.org/resource/Mistaya_Canyon> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2330416> .
+
+<http://dbpedia.org/resource/Moco_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26832671> .
+
+<http://dbpedia.org/resource/Montelbaanstoren> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1946061> .
+
+<http://dbpedia.org/resource/Montreal_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q894652> .
+
+<http://dbpedia.org/resource/Moose_in_the_City> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6908669> .
+
+<http://dbpedia.org/resource/Mount_Moriah_Cemetery_(Fairview,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15256935> .
+
+<http://dbpedia.org/resource/Mount_Olivine_(Quebec)> a ns1:POI ;
+    ns1:hasType ns1:Hiking_trails ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Hiking trails" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q105222529> .
+
+<http://dbpedia.org/resource/Mozes_en_Aäronkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1125814> .
+
+<http://dbpedia.org/resource/Multatuli_Museum_(Netherlands)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18169482> .
+
+<http://dbpedia.org/resource/Muntplein,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2663850> .
+
+<http://dbpedia.org/resource/Munttoren> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1429748> .
+
+<http://dbpedia.org/resource/Museum_Fodor> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18378399> .
+
+<http://dbpedia.org/resource/Museum_Geelvinck-Hinlopen> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q372829> .
+
+<http://dbpedia.org/resource/Museum_Van_Loon> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2191110> .
+
+<http://dbpedia.org/resource/Museum_Willet-Holthuysen> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1886176> .
+
+<http://dbpedia.org/resource/Museum_of_Bags_and_Purses> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17235558> .
+
+<http://dbpedia.org/resource/Museum_of_Ontario_Archaeology> a ns1:POI ;
+    ns1:hasType ns1:Archaeological_sites ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Archaeological sites" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1954754> .
+
+<http://dbpedia.org/resource/Museum_tot_zover> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2383603> .
+
+<http://dbpedia.org/resource/Museumplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q639321> .
+
+<http://dbpedia.org/resource/Musical_Ride> a ns1:POI ;
+    ns1:hasType ns1:Entertainment_events ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Entertainment events" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2940345> .
+
+<http://dbpedia.org/resource/Muttart_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6944087> .
+
+<http://dbpedia.org/resource/Muziekgebouw_aan_'t_IJ> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2637994> .
+
+<http://dbpedia.org/resource/NEMO_(museum)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1422000> .
+
+<http://dbpedia.org/resource/NRCA_Stadium> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q209893> .
+
+<http://dbpedia.org/resource/Nahanni_National_Park_Reserve> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q391391> .
+
+<http://dbpedia.org/resource/National_Hall_of_Fame_for_Famous_American_Indians> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6972974> .
+
+<http://dbpedia.org/resource/National_Monument_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q473851> .
+
+<http://dbpedia.org/resource/National_Parks_of_Quebec> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3364923> .
+
+<http://dbpedia.org/resource/National_Recreation_Database> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17015136> .
+
+<http://dbpedia.org/resource/National_Tulip_Day> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15632081> .
+
+<http://dbpedia.org/resource/National_Wildlife_Area> a ns1:POI ;
+    ns1:hasType ns1:Lists ;
+    ns1:locatedIn <http://dbpedia.org/resource/tourist_attractions_in_Canada> ;
+    ns1:typeString "Lists" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q337807> .
+
+<http://dbpedia.org/resource/Natura_Artis_Magistra> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q713124> .
+
+<http://dbpedia.org/resource/Netherlands_Media_Art_Institute> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2920487> .
+
+<http://dbpedia.org/resource/New_Bridge_Landing> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums",
+        "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7005651> .
+
+<http://dbpedia.org/resource/New_Brunswick_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q946082> .
+
+<http://dbpedia.org/resource/New_Jersey_Naval_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705797> .
+
+<http://dbpedia.org/resource/New_North_Reformed_Low_Dutch_Church> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7010631> .
+
+<http://dbpedia.org/resource/Niagara_Parks_Butterfly_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Aviaries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Aviaries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7023739> .
+
+<http://dbpedia.org/resource/Nieuwe_Kerk,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1419675> .
+
+<http://dbpedia.org/resource/Nieuwe_Waalse_Kerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2802982> .
+
+<http://dbpedia.org/resource/Nieuwmarkt> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1568693> .
+
+<http://dbpedia.org/resource/Nikka_Yuko_Japanese_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7035157> .
+
+<http://dbpedia.org/resource/Ninstints> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q240832> .
+
+<http://dbpedia.org/resource/Nitobe_Memorial_Garden> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1476562> .
+
+<http://dbpedia.org/resource/No._1_Northern> a ns1:POI ;
+    ns1:hasType ns1:Public_art ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Public art" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85789263> .
+
+<http://dbpedia.org/resource/Noorderkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q613854> .
+
+<http://dbpedia.org/resource/Noordermarkt> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2480678> .
+
+<http://dbpedia.org/resource/North_Arlington_Jewish_Cemetery> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q98079111> .
+
+<http://dbpedia.org/resource/North_Saskatchewan_River_valley_parks_system> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7056591> .
+
+<http://dbpedia.org/resource/Northlands_(organization)> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7059549> .
+
+<http://dbpedia.org/resource/OCCII> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2079938> .
+
+<http://dbpedia.org/resource/Official_Museums_of_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2336490> .
+
+<http://dbpedia.org/resource/Old_Stadion_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7085078> .
+
+<http://dbpedia.org/resource/Olympic_Sports_Park_Swim_Stadium> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7089133> .
+
+<http://dbpedia.org/resource/Olympic_Stadium_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments,
+        ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments",
+        "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q503319> .
+
+<http://dbpedia.org/resource/Ons'_Lieve_Heer_op_Solder> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q493160> .
+
+<http://dbpedia.org/resource/Oost-Indisch_Huis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2223310> .
+
+<http://dbpedia.org/resource/Oosterkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3408888> .
+
+<http://dbpedia.org/resource/Oosterpark_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2718912> .
+
+<http://dbpedia.org/resource/Oranje-Nassau_Kazerne> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2655427> .
+
+<http://dbpedia.org/resource/Ornamental_Gardens,_Ottawa> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7103513> .
+
+<http://dbpedia.org/resource/Oude_Kerk,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17298360> .
+
+<http://dbpedia.org/resource/Oudekerksplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2187982> .
+
+<http://dbpedia.org/resource/Overpeck_County_Park> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705833> .
+
+<http://dbpedia.org/resource/Palisades_Interstate_Park_Commission> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7127602> .
+
+<http://dbpedia.org/resource/Paradiso_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1535378> .
+
+<http://dbpedia.org/resource/Paramus_Reformed_Church_Historic_District> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7135409> .
+
+<http://dbpedia.org/resource/Park_and_Tilford_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7138156> .
+
+<http://dbpedia.org/resource/Parks_Canada> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q349487> .
+
+<http://dbpedia.org/resource/Pascack_Brook_County_Park> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14705838> .
+
+<http://dbpedia.org/resource/Pecaut_Square> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7158636> .
+
+<http://dbpedia.org/resource/Pedimental_sculptures_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q108440807> .
+
+<http://dbpedia.org/resource/Petitot_River> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q270571> .
+
+<http://dbpedia.org/resource/Place_D'Youville_(Quebec)> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3389778> .
+
+<http://dbpedia.org/resource/Point_Pelee_National_Park> a ns1:POI ;
+    ns1:hasType ns1:Birdwatching_sites ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Birdwatching sites" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1153938> .
+
+<http://dbpedia.org/resource/Point_Rosee> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22410847> .
+
+<http://dbpedia.org/resource/Pointe-Claire_Windmill> a ns1:POI ;
+    ns1:hasType ns1:Windmills ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Windmills" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3325846> .
+
+<http://dbpedia.org/resource/Porteau_Cove_Provincial_Park> a ns1:POI ;
+    ns1:hasType ns1:Underwater_diving_sites ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Underwater diving sites" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7231555> .
+
+<http://dbpedia.org/resource/Portuguese_Synagogue_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17297384> .
+
+<http://dbpedia.org/resource/Prairie_Learning_Centre> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7237923> .
+
+<http://dbpedia.org/resource/Presbyterian_Church_of_Norwood> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7240763> .
+
+<http://dbpedia.org/resource/Press_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2224691> .
+
+<http://dbpedia.org/resource/Prince_Albert_National_Park> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1122878> .
+
+<http://dbpedia.org/resource/Provincial_and_territorial_museums_of_Canada> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7252705> .
+
+<http://dbpedia.org/resource/Queen_Elizabeth_Park,_British_Columbia> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1479020> .
+
+<http://dbpedia.org/resource/REAL_District> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28550005> .
+
+<http://dbpedia.org/resource/REDress_Project> a ns1:POI ;
+    ns1:hasType ns1:Public_art ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Public art" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q67963405> .
+
+<http://dbpedia.org/resource/Ramapo_College> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7289009> .
+
+<http://dbpedia.org/resource/Ramapo_Mountain_State_Forest> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7289016> .
+
+<http://dbpedia.org/resource/Ramapo_Valley_County_Reservation> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7289015> .
+
+<http://dbpedia.org/resource/Red_Rock_Canyon_Adventure_Park_(Oklahoma)> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7304904> .
+
+<http://dbpedia.org/resource/Redtail_Nature_Awareness> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7306305> .
+
+<http://dbpedia.org/resource/Reformed_Dutch_Church_of_Wyckoff> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7307511> .
+
+<http://dbpedia.org/resource/Regina_Floral_Conservatory> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7308467> .
+
+<http://dbpedia.org/resource/Rembrandt_House_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q277316> .
+
+<http://dbpedia.org/resource/Rembrandtpark> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3460619> .
+
+<http://dbpedia.org/resource/Rembrandtplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1579642> .
+
+<http://dbpedia.org/resource/Rijksmuseum> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q190804> .
+
+<http://dbpedia.org/resource/River_Road_School> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7337765> .
+
+<http://dbpedia.org/resource/Riverside_Cemetery_(Saddle_Brook,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Cemeteries" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7338445> .
+
+<http://dbpedia.org/resource/Ronde_Lutherse_Kerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17290105> .
+
+<http://dbpedia.org/resource/Ronning_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17103053> .
+
+<http://dbpedia.org/resource/Rothman_Center> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7370490> .
+
+<http://dbpedia.org/resource/Royal_Botanical_Gardens_(Ontario)> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3162650> .
+
+<http://dbpedia.org/resource/Royal_Palace_of_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1056152> .
+
+<http://dbpedia.org/resource/Saddle_River_County_Park> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7397718> .
+
+<http://dbpedia.org/resource/Saguenay_Fjord_National_Park> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3364513> .
+
+<http://dbpedia.org/resource/Saint-Anne_Seignorial_Estate> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15711850> .
+
+<http://dbpedia.org/resource/Sarphatipark> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q645372> .
+
+<http://dbpedia.org/resource/Scheepvaarthuis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2078885> .
+
+<http://dbpedia.org/resource/Schermzaal> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7431200> .
+
+<http://dbpedia.org/resource/Schraalenburgh_North_Church> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7432785> .
+
+<http://dbpedia.org/resource/Schreierstoren> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q610402> .
+
+<http://dbpedia.org/resource/Secret_Swing> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7444123> .
+
+<http://dbpedia.org/resource/Sexmuseum_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3329876> .
+
+<http://dbpedia.org/resource/Sherbourne_Common> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7494735> .
+
+<http://dbpedia.org/resource/Shift_(sculpture)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7496239> .
+
+<http://dbpedia.org/resource/Shifting_Landscapes> a ns1:POI ;
+    ns1:hasType ns1:Public_art ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Public art" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25100899> .
+
+<http://dbpedia.org/resource/Sign_Post_Forest> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2377153> .
+
+<http://dbpedia.org/resource/Skylands_(estate)> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3486457> .
+
+<http://dbpedia.org/resource/Smallest_house_in_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14609925> .
+
+<http://dbpedia.org/resource/Southern_Plains_Indian_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Caddo_County,_Oklahoma> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56249541> .
+
+<http://dbpedia.org/resource/Southern_Prairie_Railway> a ns1:POI ;
+    ns1:hasType ns1:Heritage_railways ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Heritage railways" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25113068> .
+
+<http://dbpedia.org/resource/Southwold_Earthworks> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4409177> .
+
+<http://dbpedia.org/resource/Spirit_Catcher> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7577868> .
+
+<http://dbpedia.org/resource/Sportpark_Sloten> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2168003> .
+
+<http://dbpedia.org/resource/Sports_Hall_of_Fame_of_New_Jersey> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7579730> .
+
+<http://dbpedia.org/resource/Spui_(Amsterdam)> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q281703> .
+
+<http://dbpedia.org/resource/St._Lawrence_Parks_Commission> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7589493> .
+
+<http://dbpedia.org/resource/St._Paul's_Episcopal_Church_(Englewood,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Churches ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Churches" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28153694> .
+
+<http://dbpedia.org/resource/Stadsbank_van_Lening,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2342520> .
+
+<http://dbpedia.org/resource/Stadsschouwburg> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1817103> .
+
+<http://dbpedia.org/resource/Statue_of_Alexander_Wood> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q66125148> .
+
+<http://dbpedia.org/resource/Statue_of_Egerton_Ryerson> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q107450274> .
+
+<http://dbpedia.org/resource/Statue_of_Elizabeth_II_(Winnipeg)> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q107564624> .
+
+<http://dbpedia.org/resource/Statue_of_Notre-Dame-du-Saguenay> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3497589> .
+
+<http://dbpedia.org/resource/Stedelijk_Museum_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q924335> .
+
+<http://dbpedia.org/resource/Steuben_House> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7611686> .
+
+<http://dbpedia.org/resource/Stopera> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1138851> .
+
+<http://dbpedia.org/resource/Sugarfactory> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q51730075> .
+
+<http://dbpedia.org/resource/Suncor_Energy_Fluvarium> a ns1:POI ;
+    ns1:hasType ns1:Nature_centres ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Nature centres" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7639072> .
+
+<http://dbpedia.org/resource/Tanfield_Valley> a ns1:POI ;
+    ns1:hasType ns1:Ruins ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Ruins" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17041357> .
+
+<http://dbpedia.org/resource/Teaneck_Creek_Conservancy> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7691703> .
+
+<http://dbpedia.org/resource/Tenafly_Nature_Center> a ns1:POI ;
+    ns1:hasType ns1:Protected_areas ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Protected areas" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7699432> .
+
+<http://dbpedia.org/resource/The_Elephant_House> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7731755> .
+
+<http://dbpedia.org/resource/The_Hermitage_(Ho-Ho-Kus,_New_Jersey)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7739472> .
+
+<http://dbpedia.org/resource/The_Secret_Bench_of_Knowledge> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q106606160> .
+
+<http://dbpedia.org/resource/The_Three_Graces_(Whitney)> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q36041337> .
+
+<http://dbpedia.org/resource/The_World's_Largest_Lobster> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17512905> .
+
+<http://dbpedia.org/resource/Thomas_Temple_Fountain> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17032912> .
+
+<http://dbpedia.org/resource/Titanic_Canyon> a ns1:POI ;
+    ns1:hasType ns1:Canyons_and_gorges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Canyons and gorges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29025785> .
+
+<http://dbpedia.org/resource/Toronto_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2684773> .
+
+<http://dbpedia.org/resource/Torrington_Gopher_Hole_Museum> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7827142> .
+
+<http://dbpedia.org/resource/Torture_Museum,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17146713> .
+
+<http://dbpedia.org/resource/Touro_University_College_of_Medicine> a ns1:POI ;
+    ns1:hasType ns1:Universities_and_colleges ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Universities and colleges" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7829360> .
+
+<http://dbpedia.org/resource/Trans_Canada_Trail> a ns1:POI ;
+    ns1:hasType ns1:Hiking_trails ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Hiking trails" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q356958> .
+
+<http://dbpedia.org/resource/Trippenhuis> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2252756> .
+
+<http://dbpedia.org/resource/Tropenmuseum> a ns1:POI ;
+    ns1:hasType ns1:Museums,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1131589> .
+
+<http://dbpedia.org/resource/Tuschinski_Theatre> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q599272> .
+
+<http://dbpedia.org/resource/UBC_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2466506> .
+
+<http://dbpedia.org/resource/USS_Ling> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3544207> .
+
+<http://dbpedia.org/resource/Universal_Man> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7894005> .
+
+<http://dbpedia.org/resource/Urban_parks_in_Canada> a ns1:POI ;
+    ns1:hasType ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7900136> .
+
+<http://dbpedia.org/resource/VanDusen_Botanical_Garden> a ns1:POI ;
+    ns1:hasType ns1:Botanical_gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Botanical gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1119013> .
+
+<http://dbpedia.org/resource/Van_Gogh_Museum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q224124> .
+
+<http://dbpedia.org/resource/Van_Saun_County_Park> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7913649> .
+
+<http://dbpedia.org/resource/Vegreville_egg> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7918394> .
+
+<http://dbpedia.org/resource/Verzetsmuseum> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q828307> .
+
+<http://dbpedia.org/resource/Victoria_Butterfly_Gardens> a ns1:POI ;
+    ns1:hasType ns1:Aviaries,
+        ns1:Gardens ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Aviaries",
+        "Gardens" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7926632> .
+
+<http://dbpedia.org/resource/Victoria_Centennial_Fountain> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55137572> .
+
+<http://dbpedia.org/resource/Vijzelstraat_31> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments,
+        ns1:Shops ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments",
+        "Shops" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2263929> .
+
+<http://dbpedia.org/resource/Vondelpark> a ns1:POI ;
+    ns1:hasType ns1:Parks,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1419691> .
+
+<http://dbpedia.org/resource/Vroom_&_Dreesmann> a ns1:POI ;
+    ns1:hasType ns1:Shops ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Shops" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7943163> .
+
+<http://dbpedia.org/resource/Vuurtoreneiland> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5265618> .
+
+<http://dbpedia.org/resource/Waag,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2466999> .
+
+<http://dbpedia.org/resource/Wallace_fountain_(Montreal)> a ns1:POI ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" .
+
+<http://dbpedia.org/resource/Walloon_Church,_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2410708> .
+
+<http://dbpedia.org/resource/Warehouses_Medan,_Bindjeij_and_Laboean> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17291948> .
+
+<http://dbpedia.org/resource/Water_Sky_Garden> a ns1:POI ;
+    ns1:hasType ns1:Fountains,
+        ns1:Outdoor_sculptures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains",
+        "Outdoor sculptures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7973367> .
+
+<http://dbpedia.org/resource/Waterlooplein> a ns1:POI ;
+    ns1:hasType ns1:Squares ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Squares" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2301532> .
+
+<http://dbpedia.org/resource/Waverley_Park_(Thunder_Bay)> a ns1:POI ;
+    ns1:hasType ns1:Fountains ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fountains" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7975431> .
+
+<http://dbpedia.org/resource/Webers> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7978771> .
+
+<http://dbpedia.org/resource/Westergasfabriek> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4848627> .
+
+<http://dbpedia.org/resource/Westerkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1130722> .
+
+<http://dbpedia.org/resource/Westermoskee> a ns1:POI ;
+    ns1:hasType ns1:Religious_buildings_and_structures ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Religious buildings and structures" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2187049> .
+
+<http://dbpedia.org/resource/Western_Fair> a ns1:POI ;
+    ns1:hasType ns1:Fairgrounds ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Fairgrounds" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7987826> .
+
+<http://dbpedia.org/resource/Westerpark_(park)> a ns1:POI ;
+    ns1:hasType ns1:Parks ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Parks" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2187279> .
+
+<http://dbpedia.org/resource/White_Beeches_Country_Club> a ns1:POI ;
+    ns1:hasType ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7994470> .
+
+<http://dbpedia.org/resource/Whitewater_(POW_camp)> a ns1:POI ;
+    ns1:hasType ns1:Archaeological_sites ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Archaeological sites" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7996322> .
+
+<http://dbpedia.org/resource/Wijnkopersgildehuis> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2164887> .
+
+<http://dbpedia.org/resource/Willem_I_Lock> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15884016> .
+
+<http://dbpedia.org/resource/Winston_Bronnum> a ns1:POI ;
+    ns1:hasType ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17515478> .
+
+<http://dbpedia.org/resource/World's_Largest_Dinosaur> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3569942> .
+
+<http://dbpedia.org/resource/World's_largest_axe> a ns1:POI ;
+    ns1:hasType ns1:Outdoor_sculptures,
+        ns1:Roadside_attractions ;
+    ns1:locatedIn <http://dbpedia.org/resource/Canada> ;
+    ns1:typeString "Outdoor sculptures",
+        "Roadside attractions" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8035241> .
+
+<http://dbpedia.org/resource/World_of_Ajax> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15964404> .
+
+<http://dbpedia.org/resource/Wortendyke_Barn> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8037145> .
+
+<http://dbpedia.org/resource/Yab_Yum_(brothel)> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1822492> .
+
+<http://dbpedia.org/resource/Yereance–Berry_House> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Bergen_County,_New_Jersey> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8052557> .
+
+<http://dbpedia.org/resource/Ziggo_Dome> a ns1:POI ;
+    ns1:hasType ns1:Concert_halls,
+        ns1:Sports_venues ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Concert halls",
+        "Sports venues" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q71922> .
+
+<http://dbpedia.org/resource/Zomerdijkstraat> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2280435> .
+
+<http://dbpedia.org/resource/Zoological_Museum_Amsterdam> a ns1:POI ;
+    ns1:hasType ns1:Museums ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Museums" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3924939> .
+
+<http://dbpedia.org/resource/Zorgvlied_(cemetery)> a ns1:POI ;
+    ns1:hasType ns1:Cemeteries,
+        ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Cemeteries",
+        "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2394981> .
+
+<http://dbpedia.org/resource/Zuiderkerk> a ns1:POI ;
+    ns1:hasType ns1:Rijksmonuments ;
+    ns1:locatedIn <http://dbpedia.org/resource/Amsterdam> ;
+    ns1:typeString "Rijksmonuments" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q228629> .
+
+ns1:Beaches a ns1:AttractionType .
+
+ns1:Birdwatching_sites a ns1:AttractionType .
+
+ns1:Lakes a ns1:AttractionType .
+
+ns1:Scenic_travelways a ns1:AttractionType .
+
+<http://www.wikidata.org/entity/Q1042490> rdfs:subClassOf <http://www.wikidata.org/entity/Q570116> .
+
+<http://www.wikidata.org/entity/Q110910970> rdfs:subClassOf <http://www.wikidata.org/entity/Q123410745> .
+
+<http://www.wikidata.org/entity/Q11908691> rdfs:subClassOf <http://www.wikidata.org/entity/Q17537576> .
+
+<http://www.wikidata.org/entity/Q1322323> rdfs:subClassOf <http://www.wikidata.org/entity/Q811979> .
+
+<http://www.wikidata.org/entity/Q13226383> rdfs:subClassOf <http://www.wikidata.org/entity/Q376799> .
+
+<http://www.wikidata.org/entity/Q134301417> rdfs:subClassOf <http://www.wikidata.org/entity/Q811430> .
+
+<http://www.wikidata.org/entity/Q13580385> rdfs:subClassOf <http://www.wikidata.org/entity/Q16686448> .
+
+<http://www.wikidata.org/entity/Q1411945> rdfs:subClassOf <http://www.wikidata.org/entity/Q11908691> .
+
+<http://www.wikidata.org/entity/Q15642541> rdfs:subClassOf <http://www.wikidata.org/entity/Q2828312> .
+
+<http://www.wikidata.org/entity/Q16686448> rdfs:subClassOf <http://www.wikidata.org/entity/Q35459920> .
+
+<http://www.wikidata.org/entity/Q17537576> rdfs:subClassOf <http://www.wikidata.org/entity/Q8205328> .
+
+<http://www.wikidata.org/entity/Q2006279> rdfs:subClassOf <http://www.wikidata.org/entity/Q2828312> .
+
+<http://www.wikidata.org/entity/Q2221906> rdfs:subClassOf <http://www.wikidata.org/entity/Q15642541> .
+
+<http://www.wikidata.org/entity/Q223557> rdfs:subClassOf <http://www.wikidata.org/entity/Q838948> .
+
+<http://www.wikidata.org/entity/Q22698> rdfs:subClassOf <http://www.wikidata.org/entity/Q65498881> .
+
+<http://www.wikidata.org/entity/Q2319498> rdfs:subClassOf <http://www.wikidata.org/entity/Q1411945> .
+
+<http://www.wikidata.org/entity/Q35459920> rdfs:subClassOf <http://www.wikidata.org/entity/Q110910970> .
+
+<http://www.wikidata.org/entity/Q376799> rdfs:subClassOf <http://www.wikidata.org/entity/Q2319498> .
+
+<http://www.wikidata.org/entity/Q386724> rdfs:subClassOf <http://www.wikidata.org/entity/Q488383> .
+
+<http://www.wikidata.org/entity/Q4502142> rdfs:subClassOf <http://www.wikidata.org/entity/Q618123> .
+
+<http://www.wikidata.org/entity/Q488383> rdfs:subClassOf <http://www.wikidata.org/entity/Q223557> .
+
+<http://www.wikidata.org/entity/Q4895393> rdfs:subClassOf <http://www.wikidata.org/entity/Q7321974> .
+
+<http://www.wikidata.org/entity/Q52063214> rdfs:subClassOf <http://www.wikidata.org/entity/Q22698> .
+
+<http://www.wikidata.org/entity/Q570116> rdfs:subClassOf <http://www.wikidata.org/entity/Q4895393> .
+
+<http://www.wikidata.org/entity/Q618123> rdfs:subClassOf <http://www.wikidata.org/entity/Q134301417> .
+
+<http://www.wikidata.org/entity/Q728904> rdfs:subClassOf <http://www.wikidata.org/entity/Q2006279> .
+
+<http://www.wikidata.org/entity/Q7321974> rdfs:subClassOf <http://www.wikidata.org/entity/Q4502142> .
+
+<http://www.wikidata.org/entity/Q811430> rdfs:subClassOf <http://www.wikidata.org/entity/Q13226383> .
+
+<http://www.wikidata.org/entity/Q811979> rdfs:subClassOf <http://www.wikidata.org/entity/Q1042490> .
+
+<http://www.wikidata.org/entity/Q8205328> rdfs:subClassOf <http://www.wikidata.org/entity/Q13580385> .
+
+<http://www.wikidata.org/entity/Q838948> rdfs:subClassOf <http://www.wikidata.org/entity/Q960648> .
+
+<http://www.wikidata.org/entity/Q860861> rdfs:subClassOf <http://www.wikidata.org/entity/Q386724> .
+
+<http://www.wikidata.org/entity/Q960648> rdfs:subClassOf <http://www.wikidata.org/entity/Q1322323> .
+
+ns1:Archaeological_sites a ns1:AttractionType .
+
+ns1:Heritage_railways a ns1:AttractionType .
+
+ns1:Underwater_diving_sites a ns1:AttractionType .
+
+<http://www.wikidata.org/entity/Q2828312> rdfs:subClassOf <http://www.wikidata.org/entity/Q52063214> .
+
+<http://www.wikidata.org/entity/Q473972> rdfs:subClassOf <http://www.wikidata.org/entity/Q2221906>,
+        <http://www.wikidata.org/entity/Q728904> .
+
+ns1:Public_art a ns1:AttractionType .
+
+ns1:Retail_markets a ns1:AttractionType .
+
+ns1:Windmills a ns1:AttractionType .
+
+ns1:Aviaries a ns1:AttractionType .
+
+ns1:Golf_clubs_and_courses a ns1:AttractionType .
+
+ns1:Religious_buildings_and_structures a ns1:AttractionType .
+
+ns1:Entertainment_events a ns1:AttractionType .
+
+ns1:Hiking_trails a ns1:AttractionType .
+
+ns1:Shops a ns1:AttractionType .
+
+<http://dbpedia.org/resource/Anaheim,_California> a ns1:City .
+
+<http://dbpedia.org/resource/Caddo_County,_Oklahoma> a ns1:City .
+
+ns1:Shopping_malls a ns1:AttractionType .
+
+ns1:Fairgrounds a ns1:AttractionType .
+
+ns1:Nature_centres a ns1:AttractionType .
+
+ns1:Canyons_and_gorges a ns1:AttractionType .
+
+ns1:Universities_and_colleges a ns1:AttractionType .
+
+ns1:Protected_areas a ns1:AttractionType .
+
+ns1:Concert_halls a ns1:AttractionType .
+
+ns1:Churches a ns1:AttractionType .
+
+ns1:Fountains a ns1:AttractionType .
+
+ns1:Ruins a ns1:AttractionType .
+
+ns1:Cemeteries a ns1:AttractionType .
+
+ns1:Roadside_attractions a ns1:AttractionType .
+
+ns1:Gardens a ns1:AttractionType .
+
+ns1:Squares a ns1:AttractionType .
+
+<http://dbpedia.org/resource/tourist_attractions_in_Canada> a ns1:City .
+
+ns1:Lists a ns1:AttractionType ;
+    rdfs:subClassOf <http://www.wikidata.org/entity/Q473972> .
+
+ns1:Botanical_gardens a ns1:AttractionType .
+
+ns1:Parks a ns1:AttractionType ;
+    rdfs:subClassOf <http://www.wikidata.org/entity/Q473972> .
+
+ns1:Sports_venues a ns1:AttractionType .
+
+ns1:Outdoor_sculptures a ns1:AttractionType ;
+    rdfs:subClassOf <http://www.wikidata.org/entity/Q860861> .
+
+<http://dbpedia.org/resource/Bergen_County,_New_Jersey> a ns1:City .
+
+ns1:Museums a ns1:AttractionType .
+
+ns1:Rijksmonuments a ns1:AttractionType .
+
+<http://dbpedia.org/resource/Canada> a ns1:City .
+
+<http://dbpedia.org/resource/Amsterdam> a ns1:City .
+
