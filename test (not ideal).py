@@ -100,6 +100,20 @@ def get_wikidata_type_hierarchy(wd_uri):
     results = sparql_wd.query().convert()
     return [(r["super"]["value"], r["superLabel"]["value"]) for r in results["results"]["bindings"]]
 
+# =====================================================
+# STEP X: Check if Wikidata entity is a city
+# =====================================================
+def is_city_wikidata(wd_uri):
+    query = f"""
+    PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+    PREFIX wd: <http://www.wikidata.org/entity/>
+    ASK {{
+      <{wd_uri}> (wdt:P31/wdt:P279*) wd:Q515 .
+    }}
+    """
+    sparql_wd.setQuery(query)
+    return sparql_wd.query().convert()["boolean"]
+
 # -------------------------------
 # 7. Build RDF knowledge graph
 # -------------------------------
@@ -118,10 +132,22 @@ def build_kg(df):
         # City triples
         g.add((city_uri, RDF.type, EX.City))
 
-        # Wikidata mapping
+        # Loop through all owl:sameAs links from DBpedia to Wikidata
         wd_links = get_wikidata_mapping(row["POI"])
-        if wd_links:
-            g.add((poi_uri, OWL.sameAs, URIRef(wd_links[0])))
+        verified_wd_uri = None
+
+        for wd_uri in wd_links:
+            print(wd_uri)
+            # Check content: only keep if it passes your semantic filter
+            if is_city_wikidata(wd_uri):  # or is_poi_wikidata(), etc.
+                verified_wd_uri = wd_uri
+                g.add((poi_uri, OWL.sameAs, URIRef(verified_wd_uri)))
+                print(f"✅ Verified city link added for {poi_uri}: {verified_wd_uri}")
+                break  # Stop once we find the first valid Wikidata entity
+
+        # Optional: log cases with no valid Wikidata link
+        if not verified_wd_uri:
+            print(f"⚠️ No valid Wikidata city found for {poi_uri}")
 
             # Type hierarchy
             hierarchy = get_wikidata_type_hierarchy(wd_links[0])
