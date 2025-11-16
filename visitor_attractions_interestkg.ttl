@@ -1,0 +1,3884 @@
+@prefix ex: <http://example.org/travelkg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/100th_Bomb_Group_Memorial_Museum> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q2772772> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12052423> .
+
+<http://dbpedia.org/resource/Abe_Lemons_Arena> a <http://www.wikidata.org/entity/Q641226> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4666409> .
+
+<http://dbpedia.org/resource/Admiral_David_Glasgow_Farragut_Gravesite> a <http://www.wikidata.org/entity/Q173387> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14706156> .
+
+<http://dbpedia.org/resource/Alethorpe> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q21751582>,
+        <http://www.wikidata.org/entity/Q3257686> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4716517> .
+
+<http://dbpedia.org/resource/All_Saints'_Church,_Billockby> a <http://www.wikidata.org/entity/Q111792889>,
+        <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26302941> .
+
+<http://dbpedia.org/resource/All_Saints_Episcopal_Church_(DeQuincy,_Louisiana)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Calcasieu_Parish,_Louisiana> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4729565> .
+
+<http://dbpedia.org/resource/All_Sports_Stadium> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4729662> .
+
+<http://dbpedia.org/resource/American_Banjo_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85476623> .
+
+<http://dbpedia.org/resource/American_Banjo_Museum_Hall_of_Fame_members> a <http://www.wikidata.org/entity/Q618779>,
+        <http://www.wikidata.org/entity/Q98645843> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6591410> .
+
+<http://dbpedia.org/resource/Andover_College_(Maine)> a <http://www.wikidata.org/entity/Q23002052> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4754604> .
+
+<http://dbpedia.org/resource/Andrew_Freedman_Home> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4757013> .
+
+<http://dbpedia.org/resource/Angles_Way> a <http://www.wikidata.org/entity/Q13405588>,
+        <http://www.wikidata.org/entity/Q7051127> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4763379> .
+
+<http://dbpedia.org/resource/Anna's_Walk> a <http://www.wikidata.org/entity/Q118493267> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q97628113> .
+
+<http://dbpedia.org/resource/Ant_Broads_&_Marshes_National_Nature_Reserve> a <http://www.wikidata.org/entity/Q6974560> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4770854> .
+
+<http://dbpedia.org/resource/Appleton_Water_Tower> a <http://www.wikidata.org/entity/Q274153> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4781415> .
+
+<http://dbpedia.org/resource/Aqueduct_Walk> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q112452643> .
+
+<http://dbpedia.org/resource/Arminghall> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4793576> .
+
+<http://dbpedia.org/resource/Art_Gallery_(University_of_Southern_Maine)> a <http://www.wikidata.org/entity/Q207694>,
+        <http://www.wikidata.org/entity/Q543654> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22059322> .
+
+<http://dbpedia.org/resource/Art_collections_of_Holkham_Hall> a <http://www.wikidata.org/entity/Q7328910> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4797180> .
+
+<http://dbpedia.org/resource/Aslacton_Windmill> a <http://www.wikidata.org/entity/Q38720>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4807255> .
+
+<http://dbpedia.org/resource/Babingley> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q5084> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4837911> .
+
+<http://dbpedia.org/resource/Baconsthorpe_Castle> a <http://www.wikidata.org/entity/Q32164125>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4839962> .
+
+<http://dbpedia.org/resource/Bailey_Island_Library_Hall> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4848369> .
+
+<http://dbpedia.org/resource/Barretto_Point_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23091401> .
+
+<http://dbpedia.org/resource/Barton_House_Railway> a <http://www.wikidata.org/entity/Q20820102> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4865648> .
+
+<http://dbpedia.org/resource/Bartow–Pell_Mansion> a <http://www.wikidata.org/entity/Q1802963>,
+        <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County,
+        ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4865770> .
+
+<http://dbpedia.org/resource/Basket_Island> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Baslerweiher> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q810425> .
+
+<http://dbpedia.org/resource/Baxter_House_(Gorham,_Maine)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4873851> .
+
+<http://dbpedia.org/resource/Baxter_Memorial_Library> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4873853> .
+
+<http://dbpedia.org/resource/Baxter_Summer_Home> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24041370> .
+
+<http://dbpedia.org/resource/Beckett's_Castle> a <http://www.wikidata.org/entity/Q1371789> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24060830> .
+
+<http://dbpedia.org/resource/Bellacher_Weiher> a <http://www.wikidata.org/entity/Q131681> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q663099> .
+
+<http://dbpedia.org/resource/Benjamin_Cleaves_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4888403> .
+
+<http://dbpedia.org/resource/Bennett-Tobler-Pace-Oliver_House> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28006160> .
+
+<http://dbpedia.org/resource/Bergh_Apton_Anglo-Saxon_cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q19568886> .
+
+<http://dbpedia.org/resource/Berney_Arms_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4894130> .
+
+<http://dbpedia.org/resource/Berney_Marshes_&_Breydon_Water_RSPB_reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4894135> .
+
+<http://dbpedia.org/resource/Billingford_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4911920> .
+
+<http://dbpedia.org/resource/Binham_Priory> a <http://www.wikidata.org/entity/Q2750108> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4914352> .
+
+<http://dbpedia.org/resource/Blakeney_Chapel> a <http://www.wikidata.org/entity/Q108325>,
+        <http://www.wikidata.org/entity/Q17485079> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4924622> .
+
+<http://dbpedia.org/resource/Blakeney_Guildhall> a <http://www.wikidata.org/entity/Q1961493>,
+        <http://www.wikidata.org/entity/Q7883540> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4924615> .
+
+<http://dbpedia.org/resource/Blakeney_Point> a <http://www.wikidata.org/entity/Q170321>,
+        <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4924624> .
+
+<http://dbpedia.org/resource/Blakeney_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12053175> .
+
+<http://dbpedia.org/resource/Blickling_Hall> a <http://www.wikidata.org/entity/Q1343246>,
+        <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17535638> .
+
+<http://dbpedia.org/resource/Blickling_Park_mausoleum> a <http://www.wikidata.org/entity/Q811979> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17554002> .
+
+<http://dbpedia.org/resource/Bloodgate_Hill_Iron_Age_Fort> a <http://www.wikidata.org/entity/Q31028314> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4927935> .
+
+<http://dbpedia.org/resource/Bollinger_Mill_State_Historic_Site> a <http://www.wikidata.org/entity/Q28042933> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4939794> .
+
+<http://dbpedia.org/resource/Bolwick_Hall> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4940294> .
+
+<http://dbpedia.org/resource/Boudica's_Way> a <http://www.wikidata.org/entity/Q13405588>,
+        <http://www.wikidata.org/entity/Q7051127> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4949353> .
+
+<http://dbpedia.org/resource/Bowdoin_College> a <http://www.wikidata.org/entity/Q1377182>,
+        <http://www.wikidata.org/entity/Q23002054> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q895401> .
+
+<http://dbpedia.org/resource/Bowdoin_College_Museum_of_Art> a <http://www.wikidata.org/entity/Q111889841> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4950759> .
+
+<http://dbpedia.org/resource/Bowdoin_International_Music_Festival> a <http://www.wikidata.org/entity/Q868557> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4950761> .
+
+<http://dbpedia.org/resource/Bradbury_Mountain_State_Park> a <http://www.wikidata.org/entity/Q37997648> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4954421> .
+
+<http://dbpedia.org/resource/Brampton,_Norfolk> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24667573>,
+        <http://www.wikidata.org/entity/Q897600> .
+
+<http://dbpedia.org/resource/Brancaster> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24674214>,
+        <http://www.wikidata.org/entity/Q2923674> .
+
+<http://dbpedia.org/resource/Brandy_Pond> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4957248> .
+
+<http://dbpedia.org/resource/Branodunum> a <http://www.wikidata.org/entity/Q102202066>,
+        <http://www.wikidata.org/entity/Q14752696>,
+        <http://www.wikidata.org/entity/Q839954>,
+        <http://www.wikidata.org/entity/Q88205> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q103151338>,
+        <http://www.wikidata.org/entity/Q1735340> .
+
+<http://dbpedia.org/resource/Bressingham_Steam_and_Gardens> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4961884> .
+
+<http://dbpedia.org/resource/Bridge_Park_(Bronx)> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23091439> .
+
+<http://dbpedia.org/resource/Bridgton_Public_Library> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5211695> .
+
+<http://dbpedia.org/resource/Britannia_Monument> a <http://www.wikidata.org/entity/Q179700>,
+        <http://www.wikidata.org/entity/Q4989906> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4969287> .
+
+<http://dbpedia.org/resource/Britannia_Pier> a <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q863454> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q45843906> .
+
+<http://dbpedia.org/resource/BronxArtSpace> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q105972728> .
+
+<http://dbpedia.org/resource/Bronx_Academy_of_Arts_and_Dance> a <http://www.wikidata.org/entity/Q17350442> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24456704> .
+
+<http://dbpedia.org/resource/Bronx_Children's_Museum> a <http://www.wikidata.org/entity/Q842478> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56274243> .
+
+<http://dbpedia.org/resource/Bronx_Community_College_Library> a <http://www.wikidata.org/entity/Q189004>,
+        <http://www.wikidata.org/entity/Q7075>,
+        <http://www.wikidata.org/entity/Q856234> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18148660>,
+        <http://www.wikidata.org/entity/Q4974180> .
+
+<http://dbpedia.org/resource/Bronx_Council_on_the_Arts> a <http://www.wikidata.org/entity/Q43229> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q47321164> .
+
+<http://dbpedia.org/resource/Bronx_General_Post_Office> ex:hasLocation ex:Historic_Places_in_Bronx_County .
+
+<http://dbpedia.org/resource/Bronx_High_School_of_Science> a <http://www.wikidata.org/entity/Q28504941>,
+        <http://www.wikidata.org/entity/Q9826> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q751612> .
+
+<http://dbpedia.org/resource/Bronx_Library_Center> a <http://www.wikidata.org/entity/Q11396180>,
+        <http://www.wikidata.org/entity/Q28564>,
+        <http://www.wikidata.org/entity/Q856584> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4974191> .
+
+<http://dbpedia.org/resource/Bronx_Museum_of_the_Arts> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q207694> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4974195> .
+
+<http://dbpedia.org/resource/Bronx_Opera_House> a <http://www.wikidata.org/entity/Q811979> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4974194> .
+
+<http://dbpedia.org/resource/Bronx_Park> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1058156> .
+
+<http://dbpedia.org/resource/Bronx_Skate_Park> a <http://www.wikidata.org/entity/Q909906> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q98687977> .
+
+<http://dbpedia.org/resource/Brunswick_Naval_Aviation_Museum> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Buchegg_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4982668> .
+
+<http://dbpedia.org/resource/Buckenham_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4983013> .
+
+<http://dbpedia.org/resource/Buckenham_Marshes_RSPB_reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4983012> .
+
+<http://dbpedia.org/resource/Bure_Valley_Path> a <http://www.wikidata.org/entity/Q628179> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4998334> .
+
+<http://dbpedia.org/resource/Bure_Valley_Railway> a <http://www.wikidata.org/entity/Q420962>,
+        <http://www.wikidata.org/entity/Q6865459> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4998335> .
+
+<http://dbpedia.org/resource/Burgh_Castle> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2098453> .
+
+<http://dbpedia.org/resource/Burgh_Castle_(Roman_fortification)> a <http://www.wikidata.org/entity/Q88205> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q11680360> .
+
+<http://dbpedia.org/resource/Burgäschisee> a <http://www.wikidata.org/entity/Q1424609>,
+        <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q689876> .
+
+<http://dbpedia.org/resource/Burnham_Overy_Staithe_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4999752> .
+
+<http://dbpedia.org/resource/Burnt_Fen> a <http://www.wikidata.org/entity/Q514050> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5000193> .
+
+<http://dbpedia.org/resource/Burston_Strike_School> a <http://www.wikidata.org/entity/Q1244442> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5000657> .
+
+<http://dbpedia.org/resource/Button's_Mill,_Diss> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5003076> .
+
+<http://dbpedia.org/resource/Bytham_River> a <http://www.wikidata.org/entity/Q4022> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3746234> .
+
+<http://dbpedia.org/resource/C._A._Brown_Cottage> a <http://www.wikidata.org/entity/Q5783996> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24060831> .
+
+<http://dbpedia.org/resource/Caister-on-Sea> a <http://www.wikidata.org/entity/Q1021711>,
+        <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q3957> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24674217>,
+        <http://www.wikidata.org/entity/Q629427> .
+
+<http://dbpedia.org/resource/Caister_Castle> a <http://www.wikidata.org/entity/Q16735822>,
+        <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5017844> .
+
+<http://dbpedia.org/resource/Caister_Roman_Site> a <http://www.wikidata.org/entity/Q14752696>,
+        <http://www.wikidata.org/entity/Q88205> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1735346> .
+
+<http://dbpedia.org/resource/Calvary_Baptist_Church_(Oklahoma_City)> a <http://www.wikidata.org/entity/Q56242063> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5024139> .
+
+<http://dbpedia.org/resource/Calvary_Cemetery_(South_Portland,_Maine)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q96374301> .
+
+<http://dbpedia.org/resource/Camp_Hammond_(Yarmouth,_Maine)> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5027228> .
+
+<http://dbpedia.org/resource/Cape_Elizabeth_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5034765> .
+
+<http://dbpedia.org/resource/Capt._Greenfield_Pote_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5036429> .
+
+<http://dbpedia.org/resource/Captain_Reuben_Merrill_House> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Captain_Reuel_and_Lucy_Merrill_House> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Captain_S._C._Blanchard_House> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Castle_Acre_Castle_and_town_walls> a <http://www.wikidata.org/entity/Q23413>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5049976> .
+
+<http://dbpedia.org/resource/Castle_Acre_Priory> a <http://www.wikidata.org/entity/Q2750108> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5049978> .
+
+<http://dbpedia.org/resource/Castle_Rising_Castle> a <http://www.wikidata.org/entity/Q109607>,
+        <http://www.wikidata.org/entity/Q16970>,
+        <http://www.wikidata.org/entity/Q23413>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1049485> .
+
+<http://dbpedia.org/resource/Caston_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5050684> .
+
+<http://dbpedia.org/resource/Cathedral_of_Our_Lady_of_Perpetual_Help_(Oklahoma_City)> a <http://www.wikidata.org/entity/Q2977> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5052332> .
+
+<http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Lake_Charles,_Louisiana)> a <http://www.wikidata.org/entity/Q2977> ;
+    ex:hasLocation <http://example.org/travelkg/Calcasieu_Parish,_Louisiana> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5052447> .
+
+<http://dbpedia.org/resource/Catton_Park,_Norwich> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5054169> .
+
+<http://dbpedia.org/resource/Cawston_Road_Mill,_Aylsham> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5055235> .
+
+<http://dbpedia.org/resource/Center_of_the_American_Indian> ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q106764146> .
+
+<http://dbpedia.org/resource/Charles_Burrell_Museum> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q33506>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21716346> .
+
+<http://dbpedia.org/resource/Chickasaw_Bricktown_Ballpark> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2819527> .
+
+<http://dbpedia.org/resource/Church_of_the_Good_Shepherd_(Lake_Charles,_Louisiana)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Calcasieu_Parish,_Louisiana> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5117862> .
+
+<http://dbpedia.org/resource/City_Presbyterian_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7193925> .
+
+<http://dbpedia.org/resource/Claremont_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q34817962> .
+
+<http://dbpedia.org/resource/Clark_Pond_(Maine)> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Claxton_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5129799> .
+
+<http://dbpedia.org/resource/Clayrack_Drainage_Mill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5130134> .
+
+<http://dbpedia.org/resource/Cley_Marshes> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2979003> .
+
+<http://dbpedia.org/resource/Cley_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5132360> .
+
+<http://dbpedia.org/resource/Cley_next_the_Sea> a <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60388> .
+
+<http://dbpedia.org/resource/Coffey_Field> a <http://www.wikidata.org/entity/Q483110> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5140992> .
+
+<http://dbpedia.org/resource/Commercial_Street,_Portland,_Maine> a <http://www.wikidata.org/entity/Q79007> ;
+    ex:hasLocation <http://example.org/travelkg/Portland,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5122164> .
+
+<http://dbpedia.org/resource/Concrete_Plant_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16890641> .
+
+<http://dbpedia.org/resource/Corn_Exchange,_Fakenham> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Cow_Island,_Maine> a <http://www.wikidata.org/entity/Q23442> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5179407> .
+
+<http://dbpedia.org/resource/Cow_Tower,_Norwich> a <http://www.wikidata.org/entity/Q12518> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5179414> .
+
+<http://dbpedia.org/resource/Creake_Abbey> a <http://www.wikidata.org/entity/Q160742> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5183328> .
+
+<http://dbpedia.org/resource/Crescent_Beach_State_Park> a <http://www.wikidata.org/entity/Q37997648> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5184334> .
+
+<http://dbpedia.org/resource/Crescent_Lake_(Maine)> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Cromer> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q3957> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q208296> .
+
+<http://dbpedia.org/resource/Cromer_Pier> a <http://www.wikidata.org/entity/Q863454> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3003702> .
+
+<http://dbpedia.org/resource/Croton_Aqueduct> a <http://www.wikidata.org/entity/Q474> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1141610> .
+
+<http://dbpedia.org/resource/Crotona_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5188994> .
+
+<http://dbpedia.org/resource/Crotona_Theatre> ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5188997> .
+
+<http://dbpedia.org/resource/Crow_Island,_Harpswell,_Maine> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Curtis_Memorial_Library_(Brunswick,_Maine)> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5195833> .
+
+<http://dbpedia.org/resource/Cushing_and_Hannah_Prince_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24693412> .
+
+<http://dbpedia.org/resource/Cut-off_Channel> a <http://www.wikidata.org/entity/Q12376661>,
+        <http://www.wikidata.org/entity/Q355304> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48790045> .
+
+<http://dbpedia.org/resource/Dad's_Army_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q20744023> .
+
+<http://dbpedia.org/resource/Deacon_Andrew_Dunning_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22059339> .
+
+<http://dbpedia.org/resource/Denton_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5259594> .
+
+<http://dbpedia.org/resource/Denver_Windmill> a <http://www.wikidata.org/entity/Q44494> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5259800> .
+
+<http://dbpedia.org/resource/Derfner_Judaica_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5262546> .
+
+<http://dbpedia.org/resource/Devon_Park_(stadium)> ex:hasLocation ex:Oklahoma_City .
+
+<http://dbpedia.org/resource/Dilham_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5276771> .
+
+<http://dbpedia.org/resource/Disco_Fever> a <http://www.wikidata.org/entity/Q55097243>,
+        <http://www.wikidata.org/entity/Q622425> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3029811> .
+
+<http://dbpedia.org/resource/Douglas_Mountain_(Maine)> a <http://www.wikidata.org/entity/Q8502> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24191723> .
+
+<http://dbpedia.org/resource/Draddy_Gymnasium> a <http://www.wikidata.org/entity/Q641226> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5304747> .
+
+<http://dbpedia.org/resource/Dry_Mills_Schoolhouse> a <http://www.wikidata.org/entity/Q1244442> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5309536> .
+
+<http://dbpedia.org/resource/Duane_Library> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29469816> .
+
+<http://dbpedia.org/resource/Dunstan_Methodist_Episcopal_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5315726> .
+
+<http://dbpedia.org/resource/Eagle_Island_(Casco_Bay,_Maine)> a <http://www.wikidata.org/entity/Q23442> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5325136> .
+
+<http://dbpedia.org/resource/East_Dereham_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5328220> .
+
+<http://dbpedia.org/resource/East_Harpswell_Free_Will_Baptist_Church> a <http://www.wikidata.org/entity/Q56242063> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5328555> .
+
+<http://dbpedia.org/resource/East_Raymond_Union_Chapel> a <http://www.wikidata.org/entity/Q108325> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5329224> .
+
+<http://dbpedia.org/resource/East_Runton_Windmill> a <http://www.wikidata.org/entity/Q38720>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5329311> .
+
+<http://dbpedia.org/resource/East_Ruston_Old_Vicarage> a <http://www.wikidata.org/entity/Q1107656> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5329312> .
+
+<http://dbpedia.org/resource/East_Wretham_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5329714> .
+
+<http://dbpedia.org/resource/Eccles_on_Sea> a <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5332210> .
+
+<http://dbpedia.org/resource/Edgar_Allan_Poe_Cottage> a <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2998596> .
+
+<http://dbpedia.org/resource/Elijah_Kellogg_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5360941> .
+
+<http://dbpedia.org/resource/Elijah_Kellogg_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5360942> .
+
+<http://dbpedia.org/resource/Elisha_Purington_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5361798> .
+
+<http://dbpedia.org/resource/Eliza_Adams_Lifeboat_Memorial> a <http://www.wikidata.org/entity/Q5003624> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48805145> .
+
+<http://dbpedia.org/resource/Ephraim_Sturdivant_House> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Esplanade_(Bronx)> a <http://www.wikidata.org/entity/Q79007> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56476281> .
+
+<http://dbpedia.org/resource/Estella_Diggs_Park> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23091516> .
+
+<http://dbpedia.org/resource/Fairhaven_Woodland_and_Water_Garden> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5430474> .
+
+<http://dbpedia.org/resource/Fakenham_Racecourse> a <http://www.wikidata.org/entity/Q11822917> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5431503> .
+
+<http://dbpedia.org/resource/Fakenham_and_Dereham_Railway_Society> a <http://www.wikidata.org/entity/Q1312557> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5431505> .
+
+<http://dbpedia.org/resource/Falmouth_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23041547> .
+
+<http://dbpedia.org/resource/Farfield> a <http://www.wikidata.org/entity/Q1558858> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5435073> .
+
+<http://dbpedia.org/resource/Farnsworth_House_(North_Bridgton,_Maine)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25247778> .
+
+<http://dbpedia.org/resource/Felbrigg_Hall> a <http://www.wikidata.org/entity/Q2087181>,
+        <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5441630> .
+
+<http://dbpedia.org/resource/Fen_Causeway> a <http://www.wikidata.org/entity/Q194029> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5442948> .
+
+<http://dbpedia.org/resource/Fen_Rivers_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5442957> .
+
+<http://dbpedia.org/resource/Fenland_Survey> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5443504> .
+
+<http://dbpedia.org/resource/Ferry_Point_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5445499> .
+
+<http://dbpedia.org/resource/First_Americans_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q91340070> .
+
+<http://dbpedia.org/resource/First_Christian_Church_(Oklahoma_City,_Oklahoma)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5452639> .
+
+<http://dbpedia.org/resource/First_Church_of_Christ,_Scientist_(Oklahoma_City)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5452695> .
+
+<http://dbpedia.org/resource/First_Parish_Church_(Brunswick,_Maine)> a <http://www.wikidata.org/entity/Q317557> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5453476> .
+
+<http://dbpedia.org/resource/First_Parish_Meetinghouse_(Standish,_Maine)> a <http://www.wikidata.org/entity/Q1500615> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5453490> .
+
+<http://dbpedia.org/resource/Fleetwood_Park_Racetrack> a <http://www.wikidata.org/entity/Q11822917> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q109956622> .
+
+<http://dbpedia.org/resource/Fordham_Plaza,_Bronx> a <http://www.wikidata.org/entity/Q174782> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23091571> .
+
+<http://dbpedia.org/resource/Fordham_University_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65055078> .
+
+<http://dbpedia.org/resource/Forest_City_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5468819> .
+
+<http://dbpedia.org/resource/Former_Caswell_Public_Library> a <http://www.wikidata.org/entity/Q7075>,
+        <http://www.wikidata.org/entity/Q856584> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16986303> .
+
+<http://dbpedia.org/resource/Fort_D> a <http://www.wikidata.org/entity/Q1785071> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5471009> .
+
+<http://dbpedia.org/resource/Fort_Schuyler> a <http://www.wikidata.org/entity/Q1785071> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5471994> .
+
+<http://dbpedia.org/resource/Foxley_Wood> a <http://www.wikidata.org/entity/Q179049>,
+        <http://www.wikidata.org/entity/Q3078732> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5477205> .
+
+<http://dbpedia.org/resource/Freedomland_U.S.A.> a <http://www.wikidata.org/entity/Q194195> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5500854> .
+
+<http://dbpedia.org/resource/Freeman_Farm_Historic_District> a <http://www.wikidata.org/entity/Q131596>,
+        <http://www.wikidata.org/entity/Q15243209> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22059351> .
+
+<http://dbpedia.org/resource/Frettenham_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5503231> .
+
+<http://dbpedia.org/resource/Friends_Meetinghouse_(Casco,_Maine)> a <http://www.wikidata.org/entity/Q1500615> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5504189> .
+
+<http://dbpedia.org/resource/Friends_School_(Casco,_Maine)> a <http://www.wikidata.org/entity/Q1244442>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24040214> .
+
+<http://dbpedia.org/resource/Gaelic_Park> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5516613> .
+
+<http://dbpedia.org/resource/Garboldisham_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5522039> .
+
+<http://dbpedia.org/resource/Gariannonum> a <http://www.wikidata.org/entity/Q14752696>,
+        <http://www.wikidata.org/entity/Q88205> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1309569> .
+
+<http://dbpedia.org/resource/Gaylord-Pickens_Oklahoma_Heritage_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60754794> .
+
+<http://dbpedia.org/resource/Gayton_Thorpe_Roman_Villa> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Gayton_Windmill,_Norfolk> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5528928> .
+
+<http://dbpedia.org/resource/Gilsland_Farm> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Givans_Creek_Woods> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q108822190> .
+
+<http://dbpedia.org/resource/Glenn_House_(Cape_Girardeau,_Missouri)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5568875> .
+
+<http://dbpedia.org/resource/Godwick> a <http://www.wikidata.org/entity/Q350895>,
+        <http://www.wikidata.org/entity/Q486972> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5355095> .
+
+<http://dbpedia.org/resource/Goold_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5583931> .
+
+<http://dbpedia.org/resource/Gorleston_Pavilion> a <http://www.wikidata.org/entity/Q24354> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5586596> .
+
+<http://dbpedia.org/resource/Great_Bircham_Windmill> a <http://www.wikidata.org/entity/Q38720>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5598776> .
+
+<http://dbpedia.org/resource/Great_Ellingham_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5599112> .
+
+<http://dbpedia.org/resource/Great_Hospital> a <http://www.wikidata.org/entity/Q16917> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5599334> .
+
+<http://dbpedia.org/resource/Great_State_of_Maine_Air_Show> a <http://www.wikidata.org/entity/Q15275719> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5600031> .
+
+<http://dbpedia.org/resource/Great_Yarmouth> a <http://www.wikidata.org/entity/Q1021711>,
+        <http://www.wikidata.org/entity/Q18511725>,
+        <http://www.wikidata.org/entity/Q3957>,
+        <http://www.wikidata.org/entity/Q7897276> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q237253> .
+
+<http://dbpedia.org/resource/Great_Yarmouth_Racecourse> a <http://www.wikidata.org/entity/Q11822917> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5600306> .
+
+<http://dbpedia.org/resource/Great_Yarmouth_Row_Houses> a <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15222079> .
+
+<http://dbpedia.org/resource/Greater_Ridgeway> a <http://www.wikidata.org/entity/Q3408055> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5600735> .
+
+<http://dbpedia.org/resource/Gresham_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5607570> .
+
+<http://dbpedia.org/resource/Gressenhall_Farm_and_Workhouse> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Grime's_Graves> a <http://www.wikidata.org/entity/Q1409719> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q638485> .
+
+<http://dbpedia.org/resource/Guildhall_of_St_George> a <http://www.wikidata.org/entity/Q1961493>,
+        <http://www.wikidata.org/entity/Q2190251>,
+        <http://www.wikidata.org/entity/Q24354> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17536541> .
+
+<http://dbpedia.org/resource/Gyger_House> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Haddiscoe_Cut> a <http://www.wikidata.org/entity/Q12284> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5637674> .
+
+<http://dbpedia.org/resource/Halfway_Rock_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5641964> .
+
+<http://dbpedia.org/resource/Hall_of_Fame_for_Great_Americans> a <http://www.wikidata.org/entity/Q1046088>,
+        <http://www.wikidata.org/entity/Q24699794> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1508557> .
+
+<http://dbpedia.org/resource/Hanover_Lutheran_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5649403> .
+
+<http://dbpedia.org/resource/Happisburgh> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1395685>,
+        <http://www.wikidata.org/entity/Q24668572> .
+
+<http://dbpedia.org/resource/Harpswell_Meetinghouse> a <http://www.wikidata.org/entity/Q6807904> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15223075> .
+
+<http://dbpedia.org/resource/Hart_Island> a <http://www.wikidata.org/entity/Q4167410> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16463869> .
+
+<http://dbpedia.org/resource/Heacham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2199636>,
+        <http://www.wikidata.org/entity/Q42055025> .
+
+<http://dbpedia.org/resource/Heigham_Holmes> a <http://www.wikidata.org/entity/Q695850>,
+        <http://www.wikidata.org/entity/Q811979> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5699040> .
+
+<http://dbpedia.org/resource/Hemblington> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5711232> .
+
+<http://dbpedia.org/resource/Hemsby> a <http://www.wikidata.org/entity/Q1021711>,
+        <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24668498>,
+        <http://www.wikidata.org/entity/Q2670662> .
+
+<http://dbpedia.org/resource/Henry_Hudson_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5723397> .
+
+<http://dbpedia.org/resource/Hereward_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5738314> .
+
+<http://dbpedia.org/resource/Hickling_Mill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17556879> .
+
+<http://dbpedia.org/resource/High_Bridge_(New_York_City)> a <http://www.wikidata.org/entity/Q14276458> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5754953> .
+
+<http://dbpedia.org/resource/Highland_Lake_(Presumpscot_River)> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25238418> .
+
+<http://dbpedia.org/resource/Hill_Cemetery_(Yarmouth,_Maine)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q106597457> .
+
+<http://dbpedia.org/resource/Hip_Hop_Museum> ex:hasLocation ex:the_Bronx .
+
+<http://dbpedia.org/resource/Hoe_Rough> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5876362> .
+
+<http://dbpedia.org/resource/Holkham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2740658> .
+
+<http://dbpedia.org/resource/Holkham_Hall> a <http://www.wikidata.org/entity/Q16884952>,
+        <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1624722> .
+
+<http://dbpedia.org/resource/Holkham_National_Nature_Reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15224502> .
+
+<http://dbpedia.org/resource/Holme-next-the-Sea> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5883354> .
+
+<http://dbpedia.org/resource/Holme_Bird_Observatory> a <http://www.wikidata.org/entity/Q1365207>,
+        <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5883361> .
+
+<http://dbpedia.org/resource/Holy_Sepulchre_Priory,_Thetford> a <http://www.wikidata.org/entity/Q1701174>,
+        <http://www.wikidata.org/entity/Q2750108> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5886189> .
+
+<http://dbpedia.org/resource/Holy_Trinity_Church,_Ingham> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17536765> .
+
+<http://dbpedia.org/resource/Home_Place,_Kelling> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5888624> .
+
+<http://dbpedia.org/resource/Honing_Hall> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17556132> .
+
+<http://dbpedia.org/resource/Horsey,_Norfolk> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5906147> .
+
+<http://dbpedia.org/resource/Horsey_Dunes> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5906144> .
+
+<http://dbpedia.org/resource/Horsey_Mere> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5906158> .
+
+<http://dbpedia.org/resource/Horsey_Windpump> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5906164> .
+
+<http://dbpedia.org/resource/Horsford_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15225316> .
+
+<http://dbpedia.org/resource/Hostos_Center_for_the_Arts_&_Culture> a <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q3469910> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22329578> .
+
+<http://dbpedia.org/resource/Houghton_Hall> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2731553> .
+
+<http://dbpedia.org/resource/Hoveton_Hall> a <http://www.wikidata.org/entity/Q1107656>,
+        <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18160629> .
+
+<http://dbpedia.org/resource/How_Hill> a <http://www.wikidata.org/entity/Q3257686> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5917762> .
+
+<http://dbpedia.org/resource/How_Hill_House> a <http://www.wikidata.org/entity/Q13360578> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24636881> .
+
+<http://dbpedia.org/resource/Hunnewell_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23130037> .
+
+<http://dbpedia.org/resource/Hunsett_Mill> a <http://www.wikidata.org/entity/Q1730505>,
+        <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5943748> .
+
+<http://dbpedia.org/resource/Hunstanton> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q3957> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24664949>,
+        <http://www.wikidata.org/entity/Q617188> .
+
+<http://dbpedia.org/resource/Hunstanton_Golf_Club> a <http://www.wikidata.org/entity/Q2022036> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18126143> .
+
+<http://dbpedia.org/resource/Hunter_Island_(Bronx)> a <http://www.wikidata.org/entity/Q34763> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5944418> .
+
+<http://dbpedia.org/resource/Huntington_Free_Library_and_Reading_Room> a <http://www.wikidata.org/entity/Q7075> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5945327> .
+
+<http://dbpedia.org/resource/Hunts_Point_Riverside_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5945773> .
+
+<http://dbpedia.org/resource/Iceni_Way> a <http://www.wikidata.org/entity/Q67179750> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5985938> .
+
+<http://dbpedia.org/resource/Icknield_Way> a <http://www.wikidata.org/entity/Q3408055> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1656432> .
+
+<http://dbpedia.org/resource/Ingleborough_Tower_Windmill,_West_Walton> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6032548> .
+
+<http://dbpedia.org/resource/Inkwilersee> a <http://www.wikidata.org/entity/Q23397>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q458858> .
+
+<http://dbpedia.org/resource/Interboro_Theatre> ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6045571> .
+
+<http://dbpedia.org/resource/International_Gymnastics_Hall_of_Fame> a <http://www.wikidata.org/entity/Q42245028> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1666611> .
+
+<http://dbpedia.org/resource/International_Salsa_Museum> ex:hasLocation ex:the_Bronx .
+
+<http://dbpedia.org/resource/Intervale_Farm> a <http://www.wikidata.org/entity/Q131596> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25004820> .
+
+<http://dbpedia.org/resource/Isaac_W._Dyer_Estate> a <http://www.wikidata.org/entity/Q12292478>,
+        <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22059362> .
+
+<http://dbpedia.org/resource/Jacob_Randall_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25004914> .
+
+<http://dbpedia.org/resource/Jerome_Park> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q113570349> .
+
+<http://dbpedia.org/resource/Jerome_Park_Racetrack> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6182870> .
+
+<http://dbpedia.org/resource/Jerome_Park_Reservoir> a <http://www.wikidata.org/entity/Q131681> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6182872> .
+
+<http://dbpedia.org/resource/Jewell_Island> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Jim_Houlihan_Park_at_Jack_Coffey_Field> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14706652> .
+
+<http://dbpedia.org/resource/Jim_Norick_Arena> a <http://www.wikidata.org/entity/Q641226> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2017347> .
+
+<http://dbpedia.org/resource/John_and_Maria_Webb_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24693483> .
+
+<http://dbpedia.org/resource/Joshua_L._Chamberlain_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6289991> .
+
+<http://dbpedia.org/resource/Julio_Carballo_Fields> ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q96384824> .
+
+<http://dbpedia.org/resource/Kelling_Quags> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6385813> .
+
+<http://dbpedia.org/resource/Kenninghall_Road_Mill,_East_Harling> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6390910> .
+
+<http://dbpedia.org/resource/Kent_Theater> a <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6391935> .
+
+<http://dbpedia.org/resource/Kirby_Cane> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2518928> .
+
+<http://dbpedia.org/resource/Knight's_Pond_Preserve> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q112479529> .
+
+<http://dbpedia.org/resource/Kotzschmar_Memorial_Organ> a <http://www.wikidata.org/entity/Q281460> ;
+    ex:hasLocation <http://example.org/travelkg/Portland,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6434407> .
+
+<http://dbpedia.org/resource/Kunstmuseum_Solothurn> a <http://www.wikidata.org/entity/Q1497649>,
+        <http://www.wikidata.org/entity/Q207694>,
+        <http://www.wikidata.org/entity/Q24699794> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q683163> .
+
+<http://dbpedia.org/resource/Lake_Seewen> a <http://www.wikidata.org/entity/Q47486890> ;
+    ex:hasLocation ex:the_canton_of_Solothurn ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2265757> .
+
+<http://dbpedia.org/resource/Lakenheath_Fen_RSPB_reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6478886> .
+
+<http://dbpedia.org/resource/Lambridge_Mill> a <http://www.wikidata.org/entity/Q38720>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15241423> .
+
+<http://dbpedia.org/resource/Letheringsett_Watermill> a <http://www.wikidata.org/entity/Q185187> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6533351> .
+
+<http://dbpedia.org/resource/List_of_King_George_V_Playing_Fields_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6576009> .
+
+<http://dbpedia.org/resource/List_of_New_York_Public_Library_branches> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17018044> .
+
+<http://dbpedia.org/resource/List_of_drainage_windmills_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16153269> .
+
+<http://dbpedia.org/resource/List_of_lost_settlements_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6626737> .
+
+<http://dbpedia.org/resource/List_of_museums_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6629858> .
+
+<http://dbpedia.org/resource/List_of_parks,_gardens_and_open_spaces_in_Norwich> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6631952> .
+
+<http://dbpedia.org/resource/List_of_windmills_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16153880> .
+
+<http://dbpedia.org/resource/Little_Mark_Island_Monument> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28124807> .
+
+<http://dbpedia.org/resource/Lockgate_Mill> a <http://www.wikidata.org/entity/Q44494> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6665474> .
+
+<http://dbpedia.org/resource/Long_Island,_Maine> a <http://www.wikidata.org/entity/Q15127012> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3450224> .
+
+<http://dbpedia.org/resource/Long_Lake_(Maine)> a <http://www.wikidata.org/entity/Q23397>,
+        <http://www.wikidata.org/entity/Q2470796> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1739408> .
+
+<http://dbpedia.org/resource/Lorelei_Fountain> a <http://www.wikidata.org/entity/Q483453>,
+        <http://www.wikidata.org/entity/Q860861> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1596396> .
+
+<http://dbpedia.org/resource/Lorillard_Snuff_Mill> a <http://www.wikidata.org/entity/Q83405> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6681207> .
+
+<http://dbpedia.org/resource/Lower_Green_Mill,_Hindringham> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6693495> .
+
+<http://dbpedia.org/resource/Lt._Robert_Andrews_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6694758> .
+
+<http://dbpedia.org/resource/LuEsther_T._Mertz_Library> a <http://www.wikidata.org/entity/Q7075> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q31079305> .
+
+<http://dbpedia.org/resource/Lydia_Eva_(steam_drifter)> a <http://www.wikidata.org/entity/Q11446>,
+        <http://www.wikidata.org/entity/Q130326199> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6707615> .
+
+<http://dbpedia.org/resource/Lynford_Quarry> a <http://www.wikidata.org/entity/Q188040> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6708844> .
+
+<http://dbpedia.org/resource/Mackworth_Island> a <http://www.wikidata.org/entity/Q23442> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14223501> .
+
+<http://dbpedia.org/resource/Macombs_Dam_Park> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6724823> .
+
+<http://dbpedia.org/resource/Majestic_Cinema,_King's_Lynn> a <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6737690> .
+
+<http://dbpedia.org/resource/Mann_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65068038> .
+
+<http://dbpedia.org/resource/Mannington_Hall> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17537023> .
+
+<http://dbpedia.org/resource/Manor_Farm,_Pulham_Market> a <http://www.wikidata.org/entity/Q109838242>,
+        <http://www.wikidata.org/entity/Q489357> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12061473> .
+
+<http://dbpedia.org/resource/Manor_House_(Naples,_Maine)> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23405688> .
+
+<http://dbpedia.org/resource/Maplewood_Farm_(South_Windham,_Maine)> a <http://www.wikidata.org/entity/Q131596>,
+        <http://www.wikidata.org/entity/Q15243209> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6754109> .
+
+<http://dbpedia.org/resource/Marrett_House> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6772810> .
+
+<http://dbpedia.org/resource/Marriott's_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6772972> .
+
+<http://dbpedia.org/resource/Mayo_Street_Arts> a <http://www.wikidata.org/entity/Q19899465>,
+        <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q3469910> ;
+    ex:hasLocation <http://example.org/travelkg/Portland,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715244> .
+
+<http://dbpedia.org/resource/McLellan_House> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715255> .
+
+<http://dbpedia.org/resource/Metropolis_Theatre_(Bronx,_New_York)> a <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6824942> .
+
+<http://dbpedia.org/resource/Mid-Continent_Life_Building> a <http://www.wikidata.org/entity/Q811979> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55075463> .
+
+<http://dbpedia.org/resource/Mid-Norfolk_Railway> a <http://www.wikidata.org/entity/Q420962> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6840763> .
+
+<http://dbpedia.org/resource/Mid-Yare_National_Nature_Reserve> a <http://www.wikidata.org/entity/Q6974552> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6840852> .
+
+<http://dbpedia.org/resource/Middleton_Mount> a <http://www.wikidata.org/entity/Q839954>,
+        <http://www.wikidata.org/entity/Q92062> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6842027> .
+
+<http://dbpedia.org/resource/Mill_Lane_Mill,_Carbrooke> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15253405> .
+
+<http://dbpedia.org/resource/Mill_Pond_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23091939> .
+
+<http://dbpedia.org/resource/Mitchell_House_(Yarmouth,_Maine)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25247837> .
+
+<http://dbpedia.org/resource/Monument_Park_(Yankee_Stadium)> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6906829> .
+
+<http://dbpedia.org/resource/Moose_Pond> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715287> .
+
+<http://dbpedia.org/resource/Morris_Park_Racecourse> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14707009> .
+
+<http://dbpedia.org/resource/Mosholu_Parkway> a <http://www.wikidata.org/entity/Q130954>,
+        <http://www.wikidata.org/entity/Q83620> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2488398> .
+
+<http://dbpedia.org/resource/Muckleburgh_Collection> a <http://www.wikidata.org/entity/Q2772772> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6931190> .
+
+<http://dbpedia.org/resource/Mundesley> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24674061>,
+        <http://www.wikidata.org/entity/Q601728> .
+
+<http://dbpedia.org/resource/Museum_of_Osteology> a <http://www.wikidata.org/entity/Q1970365> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6940980> .
+
+<http://dbpedia.org/resource/Narborough_Railway_Line> a <http://www.wikidata.org/entity/Q728937> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6965598> .
+
+<http://dbpedia.org/resource/Nathan_Harris_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715309> .
+
+<http://dbpedia.org/resource/Nathaniel_Hawthorne_Boyhood_Home> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25004818> .
+
+<http://dbpedia.org/resource/National_Cowboy_&_Western_Heritage_Museum> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6971981> .
+
+<http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Cumberland_County,_Maine> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6975845> .
+
+<http://dbpedia.org/resource/National_Softball_Hall_of_Fame_and_Museum> a <http://www.wikidata.org/entity/Q42245028> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6978592> .
+
+<http://dbpedia.org/resource/National_nature_reserves_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6974555> .
+
+<http://dbpedia.org/resource/Nature_reserves_in_the_North_Norfolk_Coast_Site_of_Special_Scientific_Interest> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6980981> .
+
+<http://dbpedia.org/resource/New_England_Bible_College_and_Seminary> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/New_Parks_Act> ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q54954707> .
+
+<http://dbpedia.org/resource/New_York_Botanical_Garden> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q167346>,
+        <http://www.wikidata.org/entity/Q2385804> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q636275> .
+
+<http://dbpedia.org/resource/New_York_Coliseum_(1928)> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4974162> .
+
+<http://dbpedia.org/resource/New_York_Velodrome> a <http://www.wikidata.org/entity/Q830528> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7014821> .
+
+<http://dbpedia.org/resource/New_York_Yankees_Museum> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7014872> .
+
+<http://dbpedia.org/resource/Newton,_Norfolk> a <http://www.wikidata.org/entity/Q21507948> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q104902430> .
+
+<http://dbpedia.org/resource/Norfolk_Coast_National_Landscape> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Norfolk_Coast_Path> a <http://www.wikidata.org/entity/Q13405588>,
+        <http://www.wikidata.org/entity/Q3478783> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7051001> .
+
+<http://dbpedia.org/resource/Norfolk_Museums_Service> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Norfolk_Orbital_Railway> a <http://www.wikidata.org/entity/Q728937> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7051075> .
+
+<http://dbpedia.org/resource/Norfolk_Roadside_Nature_Reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7051092> .
+
+<http://dbpedia.org/resource/Norfolk_Tank_Museum> a <http://www.wikidata.org/entity/Q2668072>,
+        <http://www.wikidata.org/entity/Q2772772>,
+        <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q109248923> .
+
+<http://dbpedia.org/resource/Norfolk_Trails> a <http://www.wikidata.org/entity/Q67179750> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7051127> .
+
+<http://dbpedia.org/resource/Norfolk_Windmills_Trust> a <http://www.wikidata.org/entity/Q708676> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7051131> .
+
+<http://dbpedia.org/resource/Norfolk_and_Norwich_Festival> a <http://www.wikidata.org/entity/Q4801521> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q11991993> .
+
+<http://dbpedia.org/resource/North_Elmham_Castle> a <http://www.wikidata.org/entity/Q108325>,
+        <http://www.wikidata.org/entity/Q32164125>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12064397> .
+
+<http://dbpedia.org/resource/North_Norfolk_Coast_Site_of_Special_Scientific_Interest> a <http://www.wikidata.org/entity/Q422211> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7056192> .
+
+<http://dbpedia.org/resource/North_Norfolk_Railway> a <http://www.wikidata.org/entity/Q420962> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7056196> .
+
+<http://dbpedia.org/resource/North_Walsham_and_Dilham_Canal> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/North_and_South_Brother_Islands_(New_York_City)> a <http://www.wikidata.org/entity/Q1402592>,
+        <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25134193> .
+
+<http://dbpedia.org/resource/Norton_House_Historic_District> a <http://www.wikidata.org/entity/Q12292478>,
+        <http://www.wikidata.org/entity/Q15243209> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24041410> .
+
+<http://dbpedia.org/resource/Norwich_12> ex:hasLocation ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7061466> .
+
+<http://dbpedia.org/resource/Norwich_Arts_Centre> a <http://www.wikidata.org/entity/Q19899465> ;
+    ex:hasLocation ex:Norfolk,
+        ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7061470> .
+
+<http://dbpedia.org/resource/Norwich_Castle> a <http://www.wikidata.org/entity/Q33506>,
+        <http://www.wikidata.org/entity/Q839954>,
+        <http://www.wikidata.org/entity/Q92062> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1672292> .
+
+<http://dbpedia.org/resource/Norwich_Cathedral> a <http://www.wikidata.org/entity/Q56242250> ;
+    ex:hasLocation ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q768692> .
+
+<http://dbpedia.org/resource/Norwich_Cinema_City> a <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:Norfolk,
+        ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7061476> .
+
+<http://dbpedia.org/resource/Norwich_Market> a <http://www.wikidata.org/entity/Q13033698> ;
+    ex:hasLocation ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3289887> .
+
+<http://dbpedia.org/resource/Norwich_War_Memorial> a <http://www.wikidata.org/entity/Q575759> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q22666899> .
+
+<http://dbpedia.org/resource/OPEN_Norwich> a <http://www.wikidata.org/entity/Q18761864>,
+        <http://www.wikidata.org/entity/Q8719053> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26500537> .
+
+<http://dbpedia.org/resource/Ohio_Field_(Bronx)> a <http://www.wikidata.org/entity/Q17350442> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q97279566> .
+
+<http://dbpedia.org/resource/Oklahoma_City_Museum_of_Art> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q207694>,
+        <http://www.wikidata.org/entity/Q570116> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7082143> .
+
+<http://dbpedia.org/resource/Oklahoma_City_National_Memorial> a <http://www.wikidata.org/entity/Q1967454>,
+        <http://www.wikidata.org/entity/Q33506>,
+        <http://www.wikidata.org/entity/Q570116> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q638272> .
+
+<http://dbpedia.org/resource/Oklahoma_Contemporary> ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q110235939> .
+
+<http://dbpedia.org/resource/Oklahoma_Governor's_Mansion> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7082238> .
+
+<http://dbpedia.org/resource/Oklahoma_History_Center> a <http://www.wikidata.org/entity/Q16735822> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7082246> .
+
+<http://dbpedia.org/resource/Oklahoma_Railway_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14708658> .
+
+<http://dbpedia.org/resource/Oklahoma_State_Firefighters_Museum> a <http://www.wikidata.org/entity/Q11786880> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7082353> .
+
+<http://dbpedia.org/resource/Old_Buckenham_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17553863> .
+
+<http://dbpedia.org/resource/Old_Lorimier_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7084388> .
+
+<http://dbpedia.org/resource/Old_Settlers_Cemetery_(South_Portland,_Maine)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q113677862> .
+
+<http://dbpedia.org/resource/Oliver-Leming_House> a <http://www.wikidata.org/entity/Q1307276> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28007696> .
+
+<http://dbpedia.org/resource/Orchard_Beach_(Bronx)> a <http://www.wikidata.org/entity/Q40080> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7100176> .
+
+<http://dbpedia.org/resource/Ormesby_St_Margaret_with_Scratby> a <http://www.wikidata.org/entity/Q1115575> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7103398> .
+
+<http://dbpedia.org/resource/Ouse_Valley_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7111331> .
+
+<http://dbpedia.org/resource/Overholser_Mansion> a <http://www.wikidata.org/entity/Q1802963>,
+        <http://www.wikidata.org/entity/Q570116> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30588326> .
+
+<http://dbpedia.org/resource/Overstrand> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24668460>,
+        <http://www.wikidata.org/entity/Q39448> .
+
+<http://dbpedia.org/resource/Oxburgh_Hall> a <http://www.wikidata.org/entity/Q2087181> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7115152> .
+
+<http://dbpedia.org/resource/Palmer's_Drainage_Windmill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7128195> .
+
+<http://dbpedia.org/resource/Panther_Pond> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7131806> .
+
+<http://dbpedia.org/resource/Paradise_Theater_(Bronx)> a <http://www.wikidata.org/entity/Q16970>,
+        <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q41253>,
+        <http://www.wikidata.org/entity/Q8719053> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2051407> .
+
+<http://dbpedia.org/resource/Parson_Smith_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23128493> .
+
+<http://dbpedia.org/resource/Paston_Way> a <http://www.wikidata.org/entity/Q2143825> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7143025> .
+
+<http://dbpedia.org/resource/Pavilion_Theatre,_Cromer_Pier> a <http://www.wikidata.org/entity/Q24354> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7155876> .
+
+<http://dbpedia.org/resource/Paycom_Center> a <http://www.wikidata.org/entity/Q1049757> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q665434> .
+
+<http://dbpedia.org/resource/Payson_House_at_Thornhurst> a <http://www.wikidata.org/entity/Q1307276> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715342> .
+
+<http://dbpedia.org/resource/Peabody-Fitch_House> a <http://www.wikidata.org/entity/Q131596> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23405727> .
+
+<http://dbpedia.org/resource/Peabody_Pond> a <http://www.wikidata.org/entity/Q131681>,
+        <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25025239> .
+
+<http://dbpedia.org/resource/Peary–MacMillan_Arctic_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7158400> .
+
+<http://dbpedia.org/resource/Peddars_Way> a <http://www.wikidata.org/entity/Q13405588>,
+        <http://www.wikidata.org/entity/Q16000417>,
+        <http://www.wikidata.org/entity/Q194029> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2066153> .
+
+<http://dbpedia.org/resource/Pejepscot_Historical_Society> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q5774403> ;
+    ex:hasLocation <http://example.org/travelkg/Brunswick,_Maine>,
+        <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7160994> .
+
+<http://dbpedia.org/resource/Pelham_Bay_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2915654> .
+
+<http://dbpedia.org/resource/Pelham_Parkway> a <http://www.wikidata.org/entity/Q79007> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2487820> .
+
+<http://dbpedia.org/resource/Pensthorpe_Natural_Park> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7164900> .
+
+<http://dbpedia.org/resource/Pettengill_House_and_Farm> a <http://www.wikidata.org/entity/Q1307276>,
+        <http://www.wikidata.org/entity/Q131596> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24060842> .
+
+<http://dbpedia.org/resource/Pine_Grove_Cemetery_(Brunswick,_Maine)> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> .
+
+<http://dbpedia.org/resource/Plantation_Garden,_Norwich> a <http://www.wikidata.org/entity/Q56478984> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7201603> .
+
+<http://dbpedia.org/resource/Playground_52> a <http://www.wikidata.org/entity/Q11875349>,
+        <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7203340> .
+
+<http://dbpedia.org/resource/Pleasant_Lake_(Crooked_River)> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25238419> .
+
+<http://dbpedia.org/resource/Portland_Breakwater_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7231886> .
+
+<http://dbpedia.org/resource/Portland_Farmers'_Market_(Maine)> ex:hasLocation <http://example.org/travelkg/Portland,_Maine> .
+
+<http://dbpedia.org/resource/Portland_Freedom_Trail> ex:hasLocation <http://example.org/travelkg/Portland,_Maine> .
+
+<http://dbpedia.org/resource/Portland_Head_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2105159> .
+
+<http://dbpedia.org/resource/Portland_Observatory> a <http://www.wikidata.org/entity/Q1440300> ;
+    ex:hasLocation <http://example.org/travelkg/Portland,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2105180> .
+
+<http://dbpedia.org/resource/Portland_Railroad_Company_Substation> a <http://www.wikidata.org/entity/Q174814> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7232018> .
+
+<http://dbpedia.org/resource/Prairie_Surf_Studios> a <http://www.wikidata.org/entity/Q1378975> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3001879> .
+
+<http://dbpedia.org/resource/Printer's_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48744019> .
+
+<http://dbpedia.org/resource/Proprietors_Meeting_House_and_Parish_House> a <http://www.wikidata.org/entity/Q1500615> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7250434> .
+
+<http://dbpedia.org/resource/Public_School_17> a <http://www.wikidata.org/entity/Q1244442>,
+        <http://www.wikidata.org/entity/Q3914>,
+        <http://www.wikidata.org/entity/Q84015776> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7257552> .
+
+<http://dbpedia.org/resource/Puerto_Rican_Traveling_Theater> a <http://www.wikidata.org/entity/Q11812394> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24204527> .
+
+<http://dbpedia.org/resource/Pye_Road> a <http://www.wikidata.org/entity/Q14752696>,
+        <http://www.wikidata.org/entity/Q194029> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3411196> .
+
+<http://dbpedia.org/resource/RAF_Air_Defence_Radar_Museum> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q2772772> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12066774> .
+
+<http://dbpedia.org/resource/Racecourse_Ground,_Swaffham> a <http://www.wikidata.org/entity/Q1076486> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7278993> .
+
+<http://dbpedia.org/resource/Rachel_Carson_National_Wildlife_Refuge> a <http://www.wikidata.org/entity/Q1410668> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2125208> .
+
+<http://dbpedia.org/resource/Ram_Island_Ledge_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7288480> .
+
+<http://dbpedia.org/resource/Randall_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q113158710> .
+
+<http://dbpedia.org/resource/Ranworth_rood_screen> a <http://www.wikidata.org/entity/Q109643246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17142454> .
+
+<http://dbpedia.org/resource/Raoul_Wallenberg_Forest> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q49548192> .
+
+<http://dbpedia.org/resource/Raveningham_Hall> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17532772> .
+
+<http://dbpedia.org/resource/Recreational_walks_in_Norfolk> a <http://www.wikidata.org/entity/Q13406463> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7303095> .
+
+<http://dbpedia.org/resource/Red_Earth_Festival> ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q20858246> .
+
+<http://dbpedia.org/resource/Redgrave_and_Lopham_Fens> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7305880> .
+
+<http://dbpedia.org/resource/Reedham_Ferry_Drainage_Mill> a <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21995588> .
+
+<http://dbpedia.org/resource/Reinhart_Field> a <http://www.wikidata.org/entity/Q483110> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15272276> .
+
+<http://dbpedia.org/resource/Remington_Park> a <http://www.wikidata.org/entity/Q11822917> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7311878> .
+
+<http://dbpedia.org/resource/Richard_Manning_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25004546> .
+
+<http://dbpedia.org/resource/Riddlesworth_Hall> a <http://www.wikidata.org/entity/Q2418495>,
+        <http://www.wikidata.org/entity/Q269770>,
+        <http://www.wikidata.org/entity/Q3914>,
+        <http://www.wikidata.org/entity/Q41176>,
+        <http://www.wikidata.org/entity/Q4367464> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9069150> .
+
+<http://dbpedia.org/resource/River_Avenue_Skate_Park> a <http://www.wikidata.org/entity/Q909906> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85797358> .
+
+<http://dbpedia.org/resource/Riverdale_Park_(Bronx)> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q34857556> .
+
+<http://dbpedia.org/resource/Roberto_Clemente_State_Park> a <http://www.wikidata.org/entity/Q37995709> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3436866> .
+
+<http://dbpedia.org/resource/Rodman's_Neck> a <http://www.wikidata.org/entity/Q34763> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7356806> .
+
+<http://dbpedia.org/resource/Rose_Hill_Gymnasium> a <http://www.wikidata.org/entity/Q641226> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3442380> .
+
+<http://dbpedia.org/resource/Rosemary_Berkel_and_Harry_L._Crisp_II_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7368313> .
+
+<http://dbpedia.org/resource/Rufus_Porter_Museum> a <http://www.wikidata.org/entity/Q207694> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7378090> .
+
+<http://dbpedia.org/resource/Sabbathday_Lake_Shaker_Village> a <http://www.wikidata.org/entity/Q15243209>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1682941> .
+
+<http://dbpedia.org/resource/Saint_Joseph's_College_of_Maine> a <http://www.wikidata.org/entity/Q23002054> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7401512> .
+
+<http://dbpedia.org/resource/Saint_Raymond's_Cemetery_(Bronx)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7402126> .
+
+<http://dbpedia.org/resource/Salle_Park> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17554123> .
+
+<http://dbpedia.org/resource/Salthouse_Marshes> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7406119> .
+
+<http://dbpedia.org/resource/Sam_Houston_Jones_State_Park> a <http://www.wikidata.org/entity/Q37997011> ;
+    ex:hasLocation <http://example.org/travelkg/Calcasieu_Parish,_Louisiana> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7407643> .
+
+<http://dbpedia.org/resource/Sam_Perley_Farm> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18353909> .
+
+<http://dbpedia.org/resource/Sandringham_House> a <http://www.wikidata.org/entity/Q131986827>,
+        <http://www.wikidata.org/entity/Q1343246>,
+        <http://www.wikidata.org/entity/Q16884952>,
+        <http://www.wikidata.org/entity/Q2087181>,
+        <http://www.wikidata.org/entity/Q53536964> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q935116> .
+
+<http://dbpedia.org/resource/Sawyer_Center> a <http://www.wikidata.org/entity/Q641226> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7428733> .
+
+<http://dbpedia.org/resource/Scarborough_Marsh> a <http://www.wikidata.org/entity/Q29925>,
+        <http://www.wikidata.org/entity/Q35080211> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24068543> .
+
+<http://dbpedia.org/resource/Scarborough_Public_Library> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7430309> .
+
+<http://dbpedia.org/resource/Science_Museum_Oklahoma> a <http://www.wikidata.org/entity/Q163740> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7433576> .
+
+<http://dbpedia.org/resource/Scolt_Head_Island> a <http://www.wikidata.org/entity/Q23442> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7434322> .
+
+<http://dbpedia.org/resource/Scribner_Homestead> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25004947> .
+
+<http://dbpedia.org/resource/Sea_Palling> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24668456>,
+        <http://www.wikidata.org/entity/Q907931> .
+
+<http://dbpedia.org/resource/Seahenge> a <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q606492> .
+
+<http://dbpedia.org/resource/Seavey-Robinson_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18157886> .
+
+<http://dbpedia.org/resource/Sebago_Lake> a <http://www.wikidata.org/entity/Q131681> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1781818> .
+
+<http://dbpedia.org/resource/Sebago_Lake_State_Park> a <http://www.wikidata.org/entity/Q37997648> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7442333> .
+
+<http://dbpedia.org/resource/Sedgeford_Historical_and_Archaeological_Research_Project> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7445236> .
+
+<http://dbpedia.org/resource/Sedgeford_Torc> a <http://www.wikidata.org/entity/Q220659> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3532430> .
+
+<http://dbpedia.org/resource/Seton_Falls_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q49559827> .
+
+<http://dbpedia.org/resource/Sheringham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q18511725>,
+        <http://www.wikidata.org/entity/Q3957> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q239496>,
+        <http://www.wikidata.org/entity/Q24674053> .
+
+<http://dbpedia.org/resource/Sheringham_Hall> a <http://www.wikidata.org/entity/Q1343246> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17555956> .
+
+<http://dbpedia.org/resource/Sheringham_Little_Theatre> a <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7495020> .
+
+<http://dbpedia.org/resource/Sheringham_Park> a <http://www.wikidata.org/entity/Q5773747> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7495021> .
+
+<http://dbpedia.org/resource/Skolfield–Whittier_House> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7536202> .
+
+<http://dbpedia.org/resource/Snetterton_Circuit> a <http://www.wikidata.org/entity/Q2338524> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1585125> .
+
+<http://dbpedia.org/resource/Snettisham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24668494>,
+        <http://www.wikidata.org/entity/Q999768> .
+
+<http://dbpedia.org/resource/Snettisham_Hoard> a <http://www.wikidata.org/entity/Q164099> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2295839> .
+
+<http://dbpedia.org/resource/Snettisham_Jeweller's_Hoard> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7547682> .
+
+<http://dbpedia.org/resource/Snettisham_RSPB_reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7547683> .
+
+<http://dbpedia.org/resource/Soundview_Park> a <http://www.wikidata.org/entity/Q22698>,
+        <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7565009> .
+
+<http://dbpedia.org/resource/South_Bridgton_Congregational_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7566404> .
+
+<http://dbpedia.org/resource/South_Bronx_Greenway> ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48743949> .
+
+<http://dbpedia.org/resource/South_Portland_Historical_Society> a <http://www.wikidata.org/entity/Q163740>,
+        <http://www.wikidata.org/entity/Q5774403>,
+        <http://www.wikidata.org/entity/Q7075> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7568267> .
+
+<http://dbpedia.org/resource/South_Portland_Public_Library> a <http://www.wikidata.org/entity/Q28564> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7568268> .
+
+<http://dbpedia.org/resource/Southern_Maine_Community_College> a <http://www.wikidata.org/entity/Q1336920>,
+        <http://www.wikidata.org/entity/Q23002039> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7570118> .
+
+<http://dbpedia.org/resource/Spong_Hill> a <http://www.wikidata.org/entity/Q39614>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7578966> .
+
+<http://dbpedia.org/resource/Spring_Point_Ledge_Light> a <http://www.wikidata.org/entity/Q39715> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7580652> .
+
+<http://dbpedia.org/resource/Sprowston_Manor> a <http://www.wikidata.org/entity/Q64995589> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7581379> .
+
+<http://dbpedia.org/resource/Spurwink_Congregational_Church> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7581595> .
+
+<http://dbpedia.org/resource/St._Edmund's_Chapel,_Lyng> a <http://www.wikidata.org/entity/Q108325> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7587787> .
+
+<http://dbpedia.org/resource/St._James_A.M.E._Church_(Cape_Girardeau,_Missouri)> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28007734> .
+
+<http://dbpedia.org/resource/St._James_Park_(Bronx)> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65068039> .
+
+<http://dbpedia.org/resource/St._John_Evangelical_Lutheran_Church_(Pocahontas,_Missouri)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23302330> .
+
+<http://dbpedia.org/resource/St._Joseph_Old_Cathedral_(Oklahoma_City)> a <http://www.wikidata.org/entity/Q2977> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7589345> .
+
+<http://dbpedia.org/resource/St._Mary's_Park_(Bronx)> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q20858366> .
+
+<http://dbpedia.org/resource/St._Paul's_Cathedral_(Oklahoma_City)> a <http://www.wikidata.org/entity/Q56242250> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7591024> .
+
+<http://dbpedia.org/resource/St._Paul's_Episcopal_Church_(Brunswick,_Maine)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7591095> .
+
+<http://dbpedia.org/resource/St._Peter's_Church,_Chapel_and_Cemetery_Complex> a <http://www.wikidata.org/entity/Q19691007> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7591323> .
+
+<http://dbpedia.org/resource/St_Benedict's_Church,_Norwich> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17537283> .
+
+<http://dbpedia.org/resource/St_Benet's_Abbey> a <http://www.wikidata.org/entity/Q160742>,
+        <http://www.wikidata.org/entity/Q38720> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13414750> .
+
+<http://dbpedia.org/resource/St_Margaret's,_Cley> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7594091> .
+
+<http://dbpedia.org/resource/St_Margaret's_Church,_Hopton> a <http://www.wikidata.org/entity/Q21484471> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q105200222> .
+
+<http://dbpedia.org/resource/St_Mary_the_Virgin,_Banham> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17534843> .
+
+<http://dbpedia.org/resource/St_Nicholas,_Blakeney> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7594944> .
+
+<http://dbpedia.org/resource/Starlight_Park> a <http://www.wikidata.org/entity/Q194195>,
+        <http://www.wikidata.org/entity/Q19860854>,
+        <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7602080> .
+
+<http://dbpedia.org/resource/Starston_Windpump> a <http://www.wikidata.org/entity/Q1730505>,
+        <http://www.wikidata.org/entity/Q180997> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7602443> .
+
+<http://dbpedia.org/resource/Steep_Falls_Library> a <http://www.wikidata.org/entity/Q28564>,
+        <http://www.wikidata.org/entity/Q856584> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7605901> .
+
+<http://dbpedia.org/resource/Stephen_Longfellow_House> a <http://www.wikidata.org/entity/Q5773747> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23128051> .
+
+<http://dbpedia.org/resource/Stiffkey_Fen> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7616410> .
+
+<http://dbpedia.org/resource/Stone_House_(Bridgton,_Maine)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7618959> .
+
+<http://dbpedia.org/resource/Strumpshaw_Fen_RSPB_reserve> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7625374> .
+
+<http://dbpedia.org/resource/Strumpshaw_Hall_Steam_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7625372> .
+
+<http://dbpedia.org/resource/Stubb_Drainage_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7627316> .
+
+<http://dbpedia.org/resource/Swaffham_Raceway> a <http://www.wikidata.org/entity/Q2338524> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24901502> .
+
+<http://dbpedia.org/resource/Taft_Stadium> a <http://www.wikidata.org/entity/Q483110> ;
+    ex:hasLocation ex:Oklahoma_City ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7675049> .
+
+<http://dbpedia.org/resource/Taqwa_Community_Farm> a <http://www.wikidata.org/entity/Q251958> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29469026> .
+
+<http://dbpedia.org/resource/Tarr–Eaton_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7686626> .
+
+<http://dbpedia.org/resource/Teatro_Puerto_Rico> a <http://www.wikidata.org/entity/Q17350442> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7691947> .
+
+<http://dbpedia.org/resource/The_American_Pigeon_Museum_&_Library> ex:hasLocation ex:Oklahoma_City .
+
+<http://dbpedia.org/resource/The_Broads> a <http://www.wikidata.org/entity/Q30198>,
+        <http://www.wikidata.org/entity/Q327333>,
+        <http://www.wikidata.org/entity/Q3336962>,
+        <http://www.wikidata.org/entity/Q46169>,
+        <http://www.wikidata.org/entity/Q473972> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1999046>,
+        <http://www.wikidata.org/entity/Q4972284> .
+
+<http://dbpedia.org/resource/The_Ferry_Boat_Inn> a <http://www.wikidata.org/entity/Q212198>,
+        <http://www.wikidata.org/entity/Q256020> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7733687> .
+
+<http://dbpedia.org/resource/The_Forum,_Norwich> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norwich ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7734913> .
+
+<http://dbpedia.org/resource/The_Mo_Sheringham_Museum> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q1595639>,
+        <http://www.wikidata.org/entity/Q1863818> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7751827> .
+
+<http://dbpedia.org/resource/The_Museum_of_the_Broads> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q33506>,
+        <http://www.wikidata.org/entity/Q708676> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65091772> .
+
+<http://dbpedia.org/resource/The_Ninety-Nines_Museum_of_Women_Pilots> ex:hasLocation ex:Oklahoma_City .
+
+<http://dbpedia.org/resource/The_Shell_Museum> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21716368> .
+
+<http://dbpedia.org/resource/The_Walks> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7773293> .
+
+<http://dbpedia.org/resource/The_Walks_(King's_Lynn)> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/The_Waterfront,_Norwich> a <http://www.wikidata.org/entity/Q18674739>,
+        <http://www.wikidata.org/entity/Q622425> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7773730> .
+
+<http://dbpedia.org/resource/Thetford_Castle> a <http://www.wikidata.org/entity/Q23413>,
+        <http://www.wikidata.org/entity/Q92062> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7783566> .
+
+<http://dbpedia.org/resource/Thetford_Forest> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7783568> .
+
+<http://dbpedia.org/resource/Thetford_Hoard> a <http://www.wikidata.org/entity/Q164099> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3246776> .
+
+<http://dbpedia.org/resource/Thetford_Priory> a <http://www.wikidata.org/entity/Q1701174>,
+        <http://www.wikidata.org/entity/Q2750108> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7783570> .
+
+<http://dbpedia.org/resource/Thomas_Pond> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25025240> .
+
+<http://dbpedia.org/resource/Thomas_Skelton_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7793997> .
+
+<http://dbpedia.org/resource/Thompson's_Point,_Maine> ex:hasLocation <http://example.org/travelkg/Portland,_Maine> .
+
+<http://dbpedia.org/resource/Thornham,_Norfolk> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2754881> .
+
+<http://dbpedia.org/resource/Thrigby_Windmill> a <http://www.wikidata.org/entity/Q180997> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7798144> .
+
+<http://dbpedia.org/resource/Thursford_Collection> a <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7799419> .
+
+<http://dbpedia.org/resource/Titchwell> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2750342> .
+
+<http://dbpedia.org/resource/Titchwell_Marsh> a <http://www.wikidata.org/entity/Q179049> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7809924> .
+
+<http://dbpedia.org/resource/Trafford_Mausoleum,_Wroxham> a <http://www.wikidata.org/entity/Q162875> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26302802> .
+
+<http://dbpedia.org/resource/Trail_of_Tears_State_Park> a <http://www.wikidata.org/entity/Q37999727> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3364103> .
+
+<http://dbpedia.org/resource/Tremont_Theatre_(Bronx)> a <http://www.wikidata.org/entity/Q19860854>,
+        <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q41253> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7838166> .
+
+<http://dbpedia.org/resource/Trickey_Pond> a <http://www.wikidata.org/entity/Q23397> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7333826> .
+
+<http://dbpedia.org/resource/Trimingham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24674051>,
+        <http://www.wikidata.org/entity/Q2930551> .
+
+<http://dbpedia.org/resource/Trinity_Lutheran_Church_(Friedheim,_Missouri)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cape_Girardeau_County,_Missouri> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23302348> .
+
+<http://dbpedia.org/resource/True's_Yard_Fisherfolk_Museum> a <http://www.wikidata.org/entity/Q115154402>,
+        <http://www.wikidata.org/entity/Q24699794>,
+        <http://www.wikidata.org/entity/Q33506> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7847294> .
+
+<http://dbpedia.org/resource/Two_Lights_State_Park> a <http://www.wikidata.org/entity/Q37997648> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1557148> .
+
+<http://dbpedia.org/resource/USS_Orleck> a <http://www.wikidata.org/entity/Q174736>,
+        <http://www.wikidata.org/entity/Q575727> ;
+    ex:hasLocation <http://example.org/travelkg/Calcasieu_Parish,_Louisiana> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7872490> .
+
+<http://dbpedia.org/resource/Union_Church_(Naples,_Maine)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7885513> .
+
+<http://dbpedia.org/resource/Union_Church_(North_Harpswell,_Maine)> a <http://www.wikidata.org/entity/Q16970> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16976032> .
+
+<http://dbpedia.org/resource/Union_Mills,_Burnham_Overy> a <http://www.wikidata.org/entity/Q12280>,
+        <http://www.wikidata.org/entity/Q185187>,
+        <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7885837> .
+
+<http://dbpedia.org/resource/Universalist_Meeting_House> a <http://www.wikidata.org/entity/Q1500615> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7894182> .
+
+<http://dbpedia.org/resource/University_Woods> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7894982> .
+
+<http://dbpedia.org/resource/University_of_Southern_Maine> a <http://www.wikidata.org/entity/Q23002039>,
+        <http://www.wikidata.org/entity/Q3918> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3244049> .
+
+<http://dbpedia.org/resource/Valentine–Varian_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7910921> .
+
+<http://dbpedia.org/resource/Vallee_Family_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7911913> .
+
+<http://dbpedia.org/resource/Valley_Lodge_(Baldwin,_Maine)> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25247971> .
+
+<http://dbpedia.org/resource/Van_Cortlandt_House> ex:hasLocation ex:Historic_Places_in_Bronx_County,
+        ex:the_Bronx .
+
+<http://dbpedia.org/resource/Van_Cortlandt_Park> a <http://www.wikidata.org/entity/Q22746> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2915656> .
+
+<http://dbpedia.org/resource/Venta_Icenorum> a <http://www.wikidata.org/entity/Q102202066>,
+        <http://www.wikidata.org/entity/Q2202509>,
+        <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q103158323>,
+        <http://www.wikidata.org/entity/Q1407535> .
+
+<http://dbpedia.org/resource/Vinmont_Veteran_Park> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q49575602> .
+
+<http://dbpedia.org/resource/Walcott,_Norfolk> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3006783> .
+
+<http://dbpedia.org/resource/Walker_Memorial_Library> a <http://www.wikidata.org/entity/Q28564>,
+        <http://www.wikidata.org/entity/Q856584> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7962296> .
+
+<http://dbpedia.org/resource/Washington_Bridge_(Harlem_River)> ex:hasLocation ex:Historic_Places_in_Bronx_County .
+
+<http://dbpedia.org/resource/Watkins_House_and_Cabins> a <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18394627> .
+
+<http://dbpedia.org/resource/Wave_Hill> a <http://www.wikidata.org/entity/Q167346> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3089144> .
+
+<http://dbpedia.org/resource/Waxham> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7975711> .
+
+<http://dbpedia.org/resource/Wayland_Wood> a <http://www.wikidata.org/entity/Q3241565> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7975936> .
+
+<http://dbpedia.org/resource/Weavers'_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7978381> .
+
+<http://dbpedia.org/resource/Weeting_Castle> a <http://www.wikidata.org/entity/Q23413> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7979637> .
+
+<http://dbpedia.org/resource/Wellington_Pier> a <http://www.wikidata.org/entity/Q24354>,
+        <http://www.wikidata.org/entity/Q863454> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7981455> .
+
+<http://dbpedia.org/resource/Wells-next-the-Sea> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q3957> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24668570>,
+        <http://www.wikidata.org/entity/Q930204> .
+
+<http://dbpedia.org/resource/Wells_Harbour_Railway> a <http://www.wikidata.org/entity/Q20820102>,
+        <http://www.wikidata.org/entity/Q249556>,
+        <http://www.wikidata.org/entity/Q420962> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q12072660> .
+
+<http://dbpedia.org/resource/Wells_and_Walsingham_Light_Railway> a <http://www.wikidata.org/entity/Q20820102>,
+        <http://www.wikidata.org/entity/Q420962> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7981722> .
+
+<http://dbpedia.org/resource/Wendell_Foster> a <http://www.wikidata.org/entity/Q5> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q65064992> .
+
+<http://dbpedia.org/resource/Wensum_Way> a <http://www.wikidata.org/entity/Q2143825> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7982969> .
+
+<http://dbpedia.org/resource/West_Farms_Soldiers_Cemetery> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q113685870> .
+
+<http://dbpedia.org/resource/West_Runton> a <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2748757> .
+
+<http://dbpedia.org/resource/West_Runton_Mammoth> a <http://www.wikidata.org/entity/Q839954> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7986408> .
+
+<http://dbpedia.org/resource/West_Winch_Windmill> a <http://www.wikidata.org/entity/Q38720>,
+        <http://www.wikidata.org/entity/Q41176> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q15979605> .
+
+<http://dbpedia.org/resource/Westchester_Square,_Bronx> a <http://www.wikidata.org/entity/Q123705> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17091379> .
+
+<http://dbpedia.org/resource/Weybourne,_Norfolk> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q17362920>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2347426>,
+        <http://www.wikidata.org/entity/Q24678108> .
+
+<http://dbpedia.org/resource/Weybourne_Windmill> a <http://www.wikidata.org/entity/Q647704> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7990291> .
+
+<http://dbpedia.org/resource/Wherryman's_Way> a <http://www.wikidata.org/entity/Q13405588> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7993515> .
+
+<http://dbpedia.org/resource/Whitwell_&_Reepham_railway_station> a <http://www.wikidata.org/entity/Q55488> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7996956> .
+
+<http://dbpedia.org/resource/Wicklewood_Roman_Temple> ex:hasLocation ex:Norfolk .
+
+<http://dbpedia.org/resource/Wild_Ken_Hill> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q110903950> .
+
+<http://dbpedia.org/resource/William_D._Walsh_Family_Library> a <http://www.wikidata.org/entity/Q7075> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8007523> .
+
+<http://dbpedia.org/resource/William_F._Perry_House> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8008851> .
+
+<http://dbpedia.org/resource/Williamsbridge_Oval> a <http://www.wikidata.org/entity/Q22698> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q20979451> .
+
+<http://dbpedia.org/resource/Winslow_Homer_Studio> ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8025956> .
+
+<http://dbpedia.org/resource/Winterton-on-Sea> a <http://www.wikidata.org/entity/Q1115575>,
+        <http://www.wikidata.org/entity/Q532> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2323366>,
+        <http://www.wikidata.org/entity/Q24674215> .
+
+<http://dbpedia.org/resource/Wisbech_Canal> a <http://www.wikidata.org/entity/Q12284> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8027062> .
+
+<http://dbpedia.org/resource/Wolfe's_Neck_Woods_State_Park> a <http://www.wikidata.org/entity/Q37997648> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8029972> .
+
+<http://dbpedia.org/resource/Wood_Farm> a <http://www.wikidata.org/entity/Q3395383> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8032197> .
+
+<http://dbpedia.org/resource/Woodlawn_Cemetery_(Bronx,_New_York)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation ex:Historic_Places_in_Bronx_County,
+        ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2000666> .
+
+<http://dbpedia.org/resource/Woodlawn_Cemetery_(Westbrook,_Maine)> a <http://www.wikidata.org/entity/Q39614> ;
+    ex:hasLocation <http://example.org/travelkg/Cumberland_County,_Maine> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q96415501> .
+
+<http://dbpedia.org/resource/Wormegay_Castle> a <http://www.wikidata.org/entity/Q92062> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8036861> .
+
+<http://dbpedia.org/resource/Wymondham_to_Wells_Branch> a <http://www.wikidata.org/entity/Q728937> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8039994> .
+
+<http://dbpedia.org/resource/Yankee_Stadium> a <http://www.wikidata.org/entity/Q595452> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q753529> .
+
+<http://dbpedia.org/resource/Yankee_Stadium_(1923)> a <http://www.wikidata.org/entity/Q595452>,
+        <http://www.wikidata.org/entity/Q74539696> ;
+    ex:hasLocation ex:the_Bronx ;
+    owl:sameAs <http://www.wikidata.org/entity/Q675214> .
+
+<http://dbpedia.org/resource/Yarmouth_Stadium> ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8049404> .
+
+<http://dbpedia.org/resource/Yaxham_Light_Railway> a <http://www.wikidata.org/entity/Q728937> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8050491> .
+
+<http://dbpedia.org/resource/York_Cottage> a <http://www.wikidata.org/entity/Q3947> ;
+    ex:hasLocation ex:Norfolk ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1320376> .
+
+<http://www.wikidata.org/entity/Q1046088> rdfs:label "hall of fame" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q1049757> rdfs:label "multi-purpose sports venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q109607> rdfs:label "ruins" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q109643246> rdfs:label "rood screen" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q109838242> rdfs:label "thatched farmhouse" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q111792889> rdfs:label "thatched building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q111889841> rdfs:label "university art museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q11396180> rdfs:label "library branch" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q11446> rdfs:label "ship" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q11786880> rdfs:label "firefighting museum" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q11812394> rdfs:label "theatre company" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q118493267> rdfs:label "roundtrip hiking trail" ;
+    rdfs:subClassOf ex:Sports .
+
+<http://www.wikidata.org/entity/Q11875349> rdfs:label "playground" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q12280> rdfs:label "bridge" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q123705> rdfs:label "neighborhood" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q12376661> rdfs:label "artificial body of water" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q12518> rdfs:label "tower" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q130326199> rdfs:label "preserved watercraft" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q13033698> rdfs:label "market square" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q130954> rdfs:label "parkway" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q1312557> rdfs:label "railway association" .
+
+<http://www.wikidata.org/entity/Q131986827> rdfs:label "Residence of the British Royal Family" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q13360578> rdfs:label "thatched cottage" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q1336920> rdfs:label "community college" .
+
+<http://www.wikidata.org/entity/Q1365207> rdfs:label "bird observatory" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q1371789> rdfs:label "vacation home" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1377182> rdfs:label "liberal arts college" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q1378975> rdfs:label "convention center" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q1402592> rdfs:label "island group" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q1409719> rdfs:label "flint mine" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1410668> rdfs:label "National Wildlife Refuge" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q1424609> rdfs:label "kettle" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q14276458> rdfs:label "deck arch bridge" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q1440300> rdfs:label "observation tower" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1497649> rdfs:label "memory institution" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q15127012> rdfs:label "town in the United States" .
+
+<http://www.wikidata.org/entity/Q15275719> rdfs:label "recurring event" .
+
+<http://www.wikidata.org/entity/Q1558858> rdfs:label "boarding house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1595639> rdfs:label "local museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Culture,
+        <http://example.org/travelkg/Science_&_Tech>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q16000417> rdfs:label "National Trail" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q162875> rdfs:label "mausoleum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q16917> rdfs:label "hospital" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q170321> rdfs:label "wetland" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q173387> rdfs:label "grave" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q174736> rdfs:label "destroyer" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q174782> rdfs:label "square" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q174814> rdfs:label "electrical substation" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q17485079> rdfs:label "church ruin" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q179700> rdfs:label "statue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q1863818> rdfs:label "maritime museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Culture,
+        <http://example.org/travelkg/Science_&_Tech>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q18674739> rdfs:label "event venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        <http://example.org/travelkg/Food_&_Drink>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q18761864> rdfs:label "bank building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Entertainment,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q188040> rdfs:label "quarry" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q189004> rdfs:label "college" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q1967454> rdfs:label "National Memorial of the United States" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q19691007> rdfs:label "institutional complex" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1970365> rdfs:label "natural history museum" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q2022036> rdfs:label "golf club" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q212198> rdfs:label "pub" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        <http://example.org/travelkg/Food_&_Drink> .
+
+<http://www.wikidata.org/entity/Q21484471> rdfs:label "Wikimedia article covering multiple topics" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q21507948> rdfs:label "former village" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q21751582> rdfs:label "deserted medieval village" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q2190251> rdfs:label "arts center" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q2202509> rdfs:label "Roman city" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q220659> rdfs:label "archaeological artefact" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q23002052> rdfs:label "private for-profit educational institution" .
+
+<http://www.wikidata.org/entity/Q2385804> rdfs:label "educational institution" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q2418495> rdfs:label "independent school" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q2470796> rdfs:label "eutrophicity" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q249556> rdfs:label "railway company" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q251958> rdfs:label "community garden" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q256020> rdfs:label "inn" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        <http://example.org/travelkg/Food_&_Drink> .
+
+<http://www.wikidata.org/entity/Q2668072> rdfs:label "collection" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q269770> rdfs:label "boarding school" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q274153> rdfs:label "water tower" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q28042933> rdfs:label "state historic site in the United States" ;
+    rdfs:subClassOf ex:Culture,
+        ex:History,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q281460> rdfs:label "pipe organ" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Entertainment .
+
+<http://www.wikidata.org/entity/Q28504941> rdfs:label "science secondary school" ;
+    rdfs:subClassOf <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q29925> rdfs:label "salt marsh" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q30198> rdfs:label "marsh" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q3078732> rdfs:label "ancient woodland" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q31028314> rdfs:label "partial contour fort" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q317557> rdfs:label "parish church" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q3241565> rdfs:label "woodland" .
+
+<http://www.wikidata.org/entity/Q327333> rdfs:label "government agency" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q3336962> rdfs:label "National Park Authority" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q3395383> rdfs:label "agricultural land" ;
+    rdfs:subClassOf ex:Culture .
+
+<http://www.wikidata.org/entity/Q3478783> rdfs:label "coastal path" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q35080211> rdfs:label "wildlife management area of a state of the United States" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q350895> rdfs:label "abandoned village" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q355304> rdfs:label "watercourse" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q37995709> rdfs:label "New York state park" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q37997011> rdfs:label "Louisiana state park" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q37999727> rdfs:label "Missouri state park" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q3918> rdfs:label "university" .
+
+<http://www.wikidata.org/entity/Q40080> rdfs:label "beach" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q4022> rdfs:label "river" .
+
+<http://www.wikidata.org/entity/Q4167410> rdfs:label "Wikimedia disambiguation page" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q422211> rdfs:label "Site of Special Scientific Interest" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q43229> rdfs:label "organization" .
+
+<http://www.wikidata.org/entity/Q4367464> rdfs:label "preparatory school" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q46169> rdfs:label "national park" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q473972> rdfs:label "protected area" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q474> rdfs:label "aqueduct" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q47486890> rdfs:label "former lake" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q4801521> rdfs:label "arts festival" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q483453> rdfs:label "fountain" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q486972> rdfs:label "human settlement" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q489357> rdfs:label "farmhouse" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q4989906> rdfs:label "monument" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q5> rdfs:label "human" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q5003624> rdfs:label "memorial" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q5084> rdfs:label "hamlet" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q514050> rdfs:label "fen" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q53536964> rdfs:label "royal palace" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q543654> rdfs:label "Rathaus" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q55097243> rdfs:label "defunct organization" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        <http://example.org/travelkg/Food_&_Drink>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q55488> rdfs:label "railway station" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q56478984> rdfs:label "urban garden" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q575727> rdfs:label "museum ship" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q575759> rdfs:label "war memorial" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q5783996> rdfs:label "cottage" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q618779> rdfs:label "award" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Entertainment .
+
+<http://www.wikidata.org/entity/Q628179> rdfs:label "trail" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q64995589> rdfs:label "country house hotel" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q6807904> rdfs:label "meeting house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q6865459> rdfs:label "minimum-gauge railway" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q695850> rdfs:label "air base" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q6974552> rdfs:label "National Nature Reserve (England)" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q6974560> rdfs:label "national nature reserve" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q7328910> rdfs:label "art collection" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q74539696> rdfs:label "defunct sports venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q7883540> rdfs:label "undercroft" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q7897276> rdfs:label "unparished area" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q830528> rdfs:label "velodrome" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q83405> rdfs:label "factory" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q83620> rdfs:label "thoroughfare" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q84015776> rdfs:label "historic landmark" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q842478> rdfs:label "children's museum" ;
+    rdfs:subClassOf ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q8502> rdfs:label "mountain" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q856234> rdfs:label "academic library" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q860861> rdfs:label "sculpture" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q868557> rdfs:label "music festival" ;
+    rdfs:subClassOf ex:Art,
+        ex:Entertainment .
+
+<http://www.wikidata.org/entity/Q9826> rdfs:label "high school" ;
+    rdfs:subClassOf <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q98645843> rdfs:label "Wikimedia music-related list" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Entertainment .
+
+<http://www.wikidata.org/entity/Q102202066> rdfs:label "Samian Ware Discovery Site" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q1107656> rdfs:label "garden" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q12284> rdfs:label "canal" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q12292478> rdfs:label "estate" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q160742> rdfs:label "abbey" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q164099> rdfs:label "hoard" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q167346> rdfs:label "botanical garden" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q16735822> rdfs:label "history museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q16884952> rdfs:label "country house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q1701174> rdfs:label "monastery ruins" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q1730505> rdfs:label "windpump" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1785071> rdfs:label "fort" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q1802963> rdfs:label "mansion" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q180997> rdfs:label "post mill" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q18511725> rdfs:label "market town" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q185187> rdfs:label "watermill" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q194195> rdfs:label "amusement park" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Entertainment,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q1961493> rdfs:label "guild house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q19860854> rdfs:label "destroyed building or structure" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q19899465> rdfs:label "former church" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q2143825> rdfs:label "hiking trail" ;
+    rdfs:subClassOf ex:Sports .
+
+<http://www.wikidata.org/entity/Q23002039> rdfs:label "public educational institution of the United States" .
+
+<http://www.wikidata.org/entity/Q23002054> rdfs:label "private not-for-profit educational institution" ;
+    rdfs:subClassOf ex:Art .
+
+<http://www.wikidata.org/entity/Q2338524> rdfs:label "motorsport racing track" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q32164125> rdfs:label "fortified manor house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q3257686> rdfs:label "locality" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q3408055> rdfs:label "ancient trackway" ;
+    rdfs:subClassOf ex:Sports .
+
+<http://www.wikidata.org/entity/Q3469910> rdfs:label "performing arts center" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q34763> rdfs:label "peninsula" ;
+    rdfs:subClassOf ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q3914> rdfs:label "school" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q42245028> rdfs:label "sports hall of fame" ;
+    rdfs:subClassOf ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q44494> rdfs:label "mill" ;
+    rdfs:subClassOf ex:Architecture .
+
+<http://www.wikidata.org/entity/Q56242063> rdfs:label "Protestant church building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q56242250> rdfs:label "Anglican or Episcopal cathedral" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q5773747> rdfs:label "historic house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q5774403> rdfs:label "historical society" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q595452> rdfs:label "baseball venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q622425> rdfs:label "nightclub" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        <http://example.org/travelkg/Food_&_Drink>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q67179750> rdfs:label "trail system" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q708676> rdfs:label "charitable organization" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q8719053> rdfs:label "music venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q909906> rdfs:label "skatepark" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q1021711> rdfs:label "seaside resort" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q1307276> rdfs:label "single-family detached home" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q17350442> rdfs:label "venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q194029> rdfs:label "Roman road" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q20820102> rdfs:label "rideable miniature railway" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q24699794> rdfs:label "museum building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q2977> rdfs:label "cathedral" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q483110> rdfs:label "stadium" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q570116> rdfs:label "tourist attraction" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q7051127> rdfs:label "Norfolk Trail" ;
+    rdfs:subClassOf ex:Sports .
+
+<http://www.wikidata.org/entity/Q79007> rdfs:label "street" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q863454> rdfs:label "pier" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q108325> rdfs:label "chapel" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q11822917> rdfs:label "horse racing venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q1244442> rdfs:label "school building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q131681> rdfs:label "reservoir" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q14752696> rdfs:label "ancient Roman structure" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q1500615> rdfs:label "religious community center" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q15243209> rdfs:label "historic district" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q23442> rdfs:label "island" .
+
+<http://www.wikidata.org/entity/Q2750108> rdfs:label "priory" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q2772772> rdfs:label "military museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q728937> rdfs:label "railway line" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q811979> rdfs:label "architectural structure" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q856584> rdfs:label "library building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://www.wikidata.org/entity/Q88205> rdfs:label "castrum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q92062> rdfs:label "motte-and-bailey castle" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Sports .
+
+<http://example.org/travelkg/Calcasieu_Parish,_Louisiana> rdfs:label "Calcasieu Parish, Louisiana" .
+
+<http://example.org/travelkg/Food_&_Drink> rdfs:label "Food & Drink" .
+
+<http://www.wikidata.org/entity/Q131596> rdfs:label "farm" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q207694> rdfs:label "art museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q37997648> rdfs:label "Maine state park" ;
+    rdfs:subClassOf ex:Nature .
+
+<http://www.wikidata.org/entity/Q420962> rdfs:label "heritage railway" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q641226> rdfs:label "arena" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+ex:Norwich rdfs:label "Norwich" .
+
+<http://www.wikidata.org/entity/Q3957> rdfs:label "town" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q7075> rdfs:label "library" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://example.org/travelkg/Portland,_Maine> rdfs:label "Portland, Maine" .
+
+ex:the_canton_of_Solothurn rdfs:label "the canton of Solothurn" .
+
+<http://www.wikidata.org/entity/Q115154402> rdfs:label "independent museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech>,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q163740> rdfs:label "nonprofit organization" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q39715> rdfs:label "lighthouse" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q41253> rdfs:label "movie theater" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Religion,
+        ex:Sports .
+
+<http://example.org/travelkg/Brunswick,_Maine> rdfs:label "Brunswick, Maine" .
+
+<http://www.wikidata.org/entity/Q2087181> rdfs:label "historic house museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+ex:Historic_Places_in_Bronx_County rdfs:label "Historic Places in Bronx County" .
+
+<http://www.wikidata.org/entity/Q1343246> rdfs:label "English country house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q17362920> rdfs:label "Wikimedia duplicated page" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q28564> rdfs:label "public library" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture .
+
+<http://example.org/travelkg/Science_&_Tech> rdfs:label "Science & Tech" .
+
+<http://www.wikidata.org/entity/Q1076486> rdfs:label "sports venue" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q13405588> rdfs:label "long-distance trail" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q24354> rdfs:label "theatre building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q13406463> rdfs:label "Wikimedia list article" ;
+    rdfs:subClassOf ex:Art .
+
+<http://example.org/travelkg/Cape_Girardeau_County,_Missouri> rdfs:label "Cape Girardeau County, Missouri" .
+
+<http://www.wikidata.org/entity/Q22746> rdfs:label "urban park" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Entertainment,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q23413> rdfs:label "castle" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q839954> rdfs:label "archaeological site" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q23397> rdfs:label "lake" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q39614> rdfs:label "cemetery" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q647704> rdfs:label "tower mill" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art .
+
+<http://www.wikidata.org/entity/Q38720> rdfs:label "windmill" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Religion .
+
+<http://www.wikidata.org/entity/Q179049> rdfs:label "nature reserve" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Nature,
+        <http://example.org/travelkg/Science_&_Tech> .
+
+<http://www.wikidata.org/entity/Q41176> rdfs:label "building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Sports .
+
+ex:Entertainment rdfs:label "Entertainment" .
+
+<http://www.wikidata.org/entity/Q22698> rdfs:label "park" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Nature .
+
+<http://www.wikidata.org/entity/Q33506> rdfs:label "museum" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+ex:Religion rdfs:label "Religion" .
+
+<http://www.wikidata.org/entity/Q16970> rdfs:label "church building" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:Entertainment,
+        ex:History,
+        ex:Religion,
+        ex:Sports .
+
+<http://www.wikidata.org/entity/Q532> rdfs:label "village" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q1115575> rdfs:label "civil parish" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:History .
+
+<http://www.wikidata.org/entity/Q3947> rdfs:label "house" ;
+    rdfs:subClassOf ex:Architecture,
+        ex:Art,
+        ex:Culture,
+        ex:History,
+        ex:Nature,
+        ex:Sports .
+
+ex:Oklahoma_City rdfs:label "Oklahoma City" .
+
+ex:History rdfs:label "History" .
+
+ex:Nature rdfs:label "Nature" .
+
+ex:Sports rdfs:label "Sports" .
+
+ex:Culture rdfs:label "Culture" .
+
+ex:the_Bronx rdfs:label "the Bronx" .
+
+<http://example.org/travelkg/Cumberland_County,_Maine> rdfs:label "Cumberland County, Maine" .
+
+ex:Architecture rdfs:label "Architecture" .
+
+ex:Art rdfs:label "Art" .
+
+ex:Norfolk rdfs:label "Norfolk" .
+
